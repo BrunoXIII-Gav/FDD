@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Proyecto_Fundamentos_de_Diseño
 
 Fundamentos de Diseño
@@ -26,6 +26,6 @@ Lima, Perú
 Aun en fase de eleccion
 
 ![Imagen](https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg)
-=======
-# FDD
->>>>>>> 75672a844ed517ddc4aa061b7ba15ab1010ef237
+
+
+
