@@ -2,3 +2,5 @@
 
 1. Alarcon Arias, Julio Erick
 ![Imagen](Archivos_de_FDD/Imagenes/1.jpg)
+
+![Imagen](Archivos_de_FDD/Imagenes/Foto_integrantes_FDD.jpg)

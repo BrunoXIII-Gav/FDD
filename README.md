@@ -26,6 +26,3 @@ Lima, Perú
 Aun en fase de eleccion
 
 ![Imagen](https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg)
-
-
-
