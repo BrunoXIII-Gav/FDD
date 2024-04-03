@@ -22,9 +22,9 @@ El equipo está conformado por:
 
 # ODS 13: ACCIÓN POR EL CLIMA
 
-El ODS 13 es: "Adoptar medidas urgentes para combatir el cambio climático y sus efectos". El objetivo es prepararnos para afrontar los impactos del cambio climático, sentar las bases de una economía neutra en emisiones y acompañar a los colectivos más vulnerables en el proceso de transición. Involucrando a todas las administraciones y a todos los actores de la sociedad civil y del mundo académico y científico. El Objetivo tiene metas que deben alcanzarse para 2030. El progreso hacia las metas se medirá mediante indicadores.
+El ODS 13 es: "Adoptar medidas urgentes para combatir el cambio climático y sus efectos" cuyo objetivo es prepararnos para afrontar los impactos del cambio climático, sentar las bases de una economía neutra en emisiones y acompañar a los colectivos más vulnerables en el proceso de transición. Involucrando a todas las administraciones y a todos los actores de la sociedad civil y del mundo académico y científico. El Objetivo tiene metas que deben alcanzarse para 2030. El progreso hacia las metas se medirá mediante indicadores.
 
-![Imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMdU_kcGBAfG_Wn9bYuW9NGpWSHLR--cYK8CmHfQOXKA&s)
+![Imagen](https://www.isglobal.org/documents/10179/6939518/sdg+13+grande+es.jpg/cba42d02-4e25-4cc3-b045-a4f1a9f0ed40?t=1539694658000)
 
 Escogimos La ODS número 13 porque observamos que el cambio climático está provocando fenómenos climáticos extremos como sequías, inundaciones, y aumento de la temperatura. En Perú, esto puede manifestarse en la disminución de las reservas de agua debido al retroceso de los glaciares en la Cordillera de los Andes, lo que afecta la disponibilidad de agua para consumo humano, agricultura y generación de energía hidroeléctrica. También, el aumento de la temperatura y la urbanización pueden contribuir a la contaminación del aire en ciudades como Lima, afectando la salud de la población y exacerbando problemas respiratorios. Además, la contaminación atmosférica puede tener efectos negativos en la calidad de los recursos naturales.
 
