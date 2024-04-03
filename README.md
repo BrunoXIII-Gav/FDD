@@ -14,7 +14,7 @@
 El equipo está conformado por: 
 
 1. Alarcon Arias, Julio Erick: Coordinador Electrónico
-2. Atao Surichaqui, Ester Solamyt: Coordinador de Investigacion y Redaccion
+2. Atao Surichaqui, Ester Solamyt: Coordinadora de Investigacion y Redaccion
 3. Gavidia Crovetto, Bruno Paolo: 
 4. Vega Pahuara, Millene Nadile: 
 
