@@ -27,4 +27,5 @@ Aun en fase de eleccion
 
 ![Imagen](https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg)
 
-Nosotros escogimos esta ods porque ...
+Nosotros escogimos esta ods porque observamos que .... (continuan) 
+Ponen mas ideas
