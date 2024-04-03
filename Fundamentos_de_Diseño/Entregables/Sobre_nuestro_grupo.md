@@ -6,7 +6,7 @@
 1. Alarcon Arias, Julio Erick
 
 
-<p align= "center">
+<p align= "left">
   <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="400px"/>
 </p>
 
