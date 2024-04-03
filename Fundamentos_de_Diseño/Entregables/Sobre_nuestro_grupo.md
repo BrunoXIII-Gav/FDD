@@ -4,9 +4,27 @@
 
 
 <p align= "center">
-  <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="300px"/>
+  <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="700px"/>
 </p>
 
-![Imagen](FDD_1/Archivos_de_FDD/Imagenes/1.jpg)
+2. Atao Surichaqui, Ester Solamyt
 
-![Imagen](Archivos_de_FDD/Imagenes/Foto_integrantes_FDD.jpg)
+<p align= "center">
+  <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="700px"/>
+</p>
+
+3. Gavidia Crovetto, Bruno Paolo
+
+<p align= "center">
+  <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="700px"/>
+</p>
+
+4. Quiñones Vargas, Jazmin Yllary Milagros
+
+
+5. Vega Pahuara, Millene Nadile
+
+<p align= "center">
+  <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/1.jpg" alt="Erick" width="700px"/>
+</p>
+
