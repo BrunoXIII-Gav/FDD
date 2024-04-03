@@ -3,7 +3,7 @@
 
 Fundamentos de Diseño
 
-# Universid
+# Universidad
 
 ![Imagen](https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png)
 
