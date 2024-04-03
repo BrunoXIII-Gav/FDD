@@ -1,5 +1,8 @@
 # Conoce nuestro grupo
 
+
+![][https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Presentaci%C3%B3n%20Centro%20de%20Est%C3%A9tica%20Org%C3%A1nico%20Verde.png]
+
 1. Alarcon Arias, Julio Erick
 
 
