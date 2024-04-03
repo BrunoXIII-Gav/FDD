@@ -31,3 +31,5 @@
   <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/5.jpg" alt="Milene" width="400px"/>
 </p>
 
+
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/caratula6.png)
