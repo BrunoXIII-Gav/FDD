@@ -34,3 +34,4 @@ Escogimos La ODS número 13 porque observamos que el cambio climático está pro
 
 Diseñar e implementar un proyecto de mitigación y adaptación al cambio climático en una comunidad vulnerable de nuestra región, centrándonos en la reducción de pérdidas ocasionadas por eventos climáticos extremos.
 
+![f9affbf5-280f-4977-8c7d-9df1c94c4d63](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/50de82e0-b90e-4054-aaa8-e120acd70b5e)
