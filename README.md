@@ -32,9 +32,12 @@ Escogimos La ODS número 13 porque observamos que el cambio climático está pro
 
 ![Imagen](https://www.dorsanfiltration.com/wp-content/uploads/2023/06/dorsan-filtration-medio-ambiente-sostenibilidad-compromiso-6-1024x862.jpg)
 
-# OBJETIVO
+# OBJETIVO GENERAL:
 
 Diseñar e implementar un proyecto de mitigación y adaptación al cambio climático en una comunidad vulnerable de nuestra región, centrándonos en la reducción de pérdidas ocasionadas por eventos climáticos extremos.
+
+OBJETIVOS ESPECIFICOS:
+Incorporar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
 
 
 REFERENCIAS BIBLIOGRAFICAS
