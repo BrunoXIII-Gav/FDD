@@ -37,6 +37,7 @@ Escogimos La ODS número 13 porque observamos que el cambio climático está pro
 Diseñar e implementar un proyecto de mitigación y adaptación al cambio climático en una comunidad vulnerable de nuestra región, centrándonos en la reducción de pérdidas ocasionadas por eventos climáticos extremos.
 
 OBJETIVOS ESPECIFICOS:
+
 Incorporar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
 
 
