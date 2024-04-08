@@ -19,10 +19,10 @@
 
 El equipo está conformado por: 
 
-1. Alarcon Arias, Julio Erick **(Coordinador Electrónico)**
-2. Atao Surichaqui, Ester Solamyt **(Coordinadora de Investigación y Redacción)**
-3. Gavidia Crovetto, Bruno Paolo **(Coordinador General y Software)**
-4. Vega Pahuara, Millene Nadile **(Coordinadora del Prototipado)**
+- Alarcon Arias, Julio Erick **(Coordinador Electrónico)**
+- Atao Surichaqui, Ester Solamyt **(Coordinadora de Investigación y Redacción)**
+- Gavidia Crovetto, Bruno Paolo **(Coordinador General y Software)**
+- Vega Pahuara, Millene Nadile **(Coordinadora del Prototipado)**
 
 Mas sobre nuestro grupo en el siguiente enlace: [conociendo a nuestro grupo](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
 
