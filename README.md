@@ -1,11 +1,11 @@
 
-# UNIVERSIDAD PERUANA CAYETANO HEREDIA
+## UNIVERSIDAD PERUANA CAYETANO HEREDIA
 
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" alt="Imagen" width="400px"> 
 
 # FUNDAMENTOS DE DISEÑO
 
-# INTRODUCCIÓN
+## INTRODUCCIÓN
 
 *¡Bienvenidos a nuestro repositorio! Somos el Grupo 1 del curso de Fundamentos de Diseño 2024-1, y nos complace utilizar este repositorio para compartir y cargar el proyecto que estaremos desarrollando durante cada sesión a lo largo del curso. Estamos entusiasmados por contribuir al desarrollo sostenible de nuestro país y esperamos compartir nuestros avances y aprendizajes con ustedes.*
 
