@@ -7,7 +7,7 @@
 
 # UNIVERSIDAD
 
-![Imagen](https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png)
+<img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" alt="Imagen" width="200px">
 
 # INTEGRANTES Y ROLES
 
