@@ -6,11 +6,11 @@
 # FUNDAMENTOS DE DISEÑO 🌱💻
 
 ## Tabla de Contenidos:
-- [Introducción](#INTRODUCCIÓN)
-- [Integrantes y roles](#INTEGRANTES-Y-ROLES)
+- [Introducción](#Introducción)
+- [Integrantes y roles](#¿Quiénes-somos?)
 
 
-## INTRODUCCIÓN
+## Introducción
 
 *¡Bienvenidos a nuestro repositorio! Somos el Grupo 1 del curso de Fundamentos de Diseño 2024-1, y nos complace utilizar este repositorio para compartir y cargar el proyecto que estaremos desarrollando durante cada sesión a lo largo del curso. Estamos entusiasmados por contribuir al desarrollo sostenible de nuestro país y esperamos compartir nuestros avances y aprendizajes con ustedes.*
 
@@ -20,16 +20,15 @@
 
 
 
-## INTEGRANTES Y ROLES
-
-El equipo está conformado por: 
+## ¿Quiénes somos?
+Nuestro equipo está conformado por: 
 
 - Alarcon Arias, Julio Erick **(Coordinador Electrónico)**
 - Atao Surichaqui, Ester Solamyt **(Coordinadora de Investigación y Redacción)**
 - Gavidia Crovetto, Bruno Paolo **(Coordinador General y Software)**
 - Vega Pahuara, Millene Nadile **(Coordinadora del Prototipado)**
 
-Si desea conocer más sobre nosotros, le invitamos a entrar a este [link:](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
+Si deseas conocer más sobre nosotros, te invitamos a entrar a este [link:](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
 
 <div style="text-align:center;">
     <img src="Archivos_de_FDD/Imagenes/Foto_integrantes_FDD.jpg" alt="Imagen" width="600px">
