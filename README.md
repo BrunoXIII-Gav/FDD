@@ -3,7 +3,7 @@
 
 <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" alt="Imagen" width="400px"> 
 
-# FUNDAMENTOS DE DISEÑO
+# FUNDAMENTOS DE DISEÑO 🌱💻
 
 ## INTRODUCCIÓN
 
@@ -15,7 +15,7 @@
 
 
 
-# INTEGRANTES Y ROLES
+## INTEGRANTES Y ROLES
 
 El equipo está conformado por: 
 
@@ -24,14 +24,14 @@ El equipo está conformado por:
 - Gavidia Crovetto, Bruno Paolo **(Coordinador General y Software)**
 - Vega Pahuara, Millene Nadile **(Coordinadora del Prototipado)**
 
-Mas sobre nuestro grupo en el siguiente enlace: [conociendo a nuestro grupo](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
+Si desea conocer más sobre nosotros, le invitamos a entrar a este [link:](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
 
 <div style="text-align:center;">
     <img src="Archivos_de_FDD/Imagenes/Foto_integrantes_FDD.jpg" alt="Imagen" width="600px">
 </div>
 
 
-# ODS 13: ACCIÓN POR EL CLIMA
+## ODS 13: ACCIÓN POR EL CLIMA
 
 El ODS 13 es: "Adoptar medidas urgentes para combatir el cambio climático y sus efectos" cuyo objetivo es prepararnos para afrontar los impactos del cambio climático, sentar las bases de una economía neutra en emisiones y acompañar a los colectivos más vulnerables en el proceso de transición. Involucrando a todas las administraciones y a todos los actores de la sociedad civil y del mundo académico y científico. El Objetivo tiene metas que deben alcanzarse para 2030. El progreso hacia las metas se medirá mediante indicadores.
 
