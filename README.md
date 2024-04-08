@@ -9,7 +9,7 @@
 
 *¡Bienvenidos a nuestro repositorio! Somos el Grupo 1 del curso de Fundamentos de Diseño 2024-1, y nos complace utilizar este repositorio para compartir y cargar el proyecto que estaremos desarrollando durante cada sesión a lo largo del curso. Estamos entusiasmados por contribuir al desarrollo sostenible de nuestro país y esperamos compartir nuestros avances y aprendizajes con ustedes.*
 
-<img src="https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg" alt="Imagen" width="500px">
+<img src="https://www.parlamentoandino.org/images/servicios/informacion/ODS.jpg" alt="Imagen" width="600px">
 
 
 # INTEGRANTES Y ROLES
