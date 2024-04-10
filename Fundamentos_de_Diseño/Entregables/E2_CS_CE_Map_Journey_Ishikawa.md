@@ -43,7 +43,7 @@ El impacto económico de la contaminación  del aire en la región de Huarochir�
 
 # Diagrama de Ishikawa
 
-![image]()
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Diagrama%20de%20Ishikawa.png)
 
 # REFERENCIAS BIBLIOGRAFICAS
 -Banco Mundial. (2016). La contaminación atmosférica le cuesta USD 225 mil millones a la economía mundial.
