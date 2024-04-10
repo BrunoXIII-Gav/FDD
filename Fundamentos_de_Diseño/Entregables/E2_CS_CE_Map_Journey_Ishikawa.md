@@ -5,7 +5,7 @@
 **-Contexto económico del agua y del aire a nivel a mundial:**
 
 La contaminación del aire es un problema urgente y preocupante a nivel mundial. Ya que trae consigo efectos negativos que se manifiestan en la salud humana, el cambio climático y la biodiversidad.
-Según el Banco Mundial(2016),la contaminación atmosférica le costó a la economía mundial aproximadamente USD 225 mil millones en pérdida de ingresos laborales en 2013,también hubo pérdidas de 5.5 millones de vidas ,todo esto provocaron el sufrimiento humano y redujeron el desarrollo econimico.
+Según el Banco Mundial(2016),la contaminación atmosférica le costó a la economía mundial aproximadamente USD 225 mil millones en pérdida de ingresos laborales en 2013,también hubo pérdidas de 5.5 millones de vidas ,todo esto provocaron el sufrimiento humano y redujeron el desarrollo economico.
 
 
 
