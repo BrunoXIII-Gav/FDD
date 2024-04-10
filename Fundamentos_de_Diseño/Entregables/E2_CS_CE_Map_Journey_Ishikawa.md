@@ -4,6 +4,7 @@
 
 **-Contexto económico del agua y del aire a nivel a mundial:**
 
+![Uploading 9e92d0a2-88b9-4138-ace2-b0ef6b045827.jpg…]()
 
 
 **-Contexto económico del agua y del aire a nivel a nacional:**
