@@ -4,7 +4,8 @@
 
 **-Contexto económico del agua y del aire a nivel a mundial:**
 
-(https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/12d91a27-0a7a-42de-a6dc-1be5928982c0)
+
+![9e92d0a2-88b9-4138-ace2-b0ef6b045827](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/b64df7a8-4c9d-4646-a9df-7468c03eefbf)
 
 
 
