@@ -28,7 +28,7 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 
 **-Contexto económico del agua y del aire a nivel a regional:**
 
-El impacto económico de la contaminación  del aire en la región de Huarochirí, Lima, es un tema de preocupación. La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.
+El impacto económico de la contaminación  del aire en la región de Huarochirí, Lima, es un tema de preocupación. La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.Huarochirí enfrenta desafíos relacionados con la calidad del aire debido a diversas actividades humanas y factores ambientales.
 
 # MAPA DE EMPATÍA
 
