@@ -12,7 +12,13 @@ Trazo de la Carretera Central en la página oficial de Ministerios de Transporte
 
 **-Nivel Mundial:**
 
-La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire no alcanzan los límites fijados. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias, causando más de 6,7 millones de muertes.
+La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire no alcanzan los límites fijados. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
+
+**-Nivel Regional:**
+La contaminación atmosférica es uno de los principales riesgos ambientales para la salud en América, alrededor de 6,7 millones de muertes prematuras se atribuyeron anualmente a los efectos de la contaminación del aire. Según el (Informe Mundial sobre la Calidad del Aire 2023) Perú y Chile se encuentran entre los países con el mayor nivel de contaminación del aire del mundo, estos dos países sudamericanos ocupan los puestos 38 y 43 del ranking global, respectivamente. La concentración de partículas ligeras, uno de los indicadores más usados para medir la polución del aire, alcanza un promedio de 23,5 microgramos por metro cúbico (μg/m3) en Perú y 22,2 en Chile.
+
+**-Nivel Local:**
+
 
 # Contexto Económico
 
