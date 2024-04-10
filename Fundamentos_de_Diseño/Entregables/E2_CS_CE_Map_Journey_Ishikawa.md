@@ -16,10 +16,14 @@ Según el Banco Mundial(2016),la contaminación atmosférica le costó a la econ
 **-Contexto económico del agua y del aire a nivel a nacional:**
 
 L a contaminacion del aire en Peru es un problema critico que afecta tanto a ala salud como la economia.
+![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/30eab3a6-16cf-4446-9247-2c04e4aaba8c)
+
+
 
 **-Contexto económico del agua y del aire a nivel a regional:**
 
 # MAPA DE EMPATÍA
+
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/3ed2e64c-e7b2-49df-b23f-55d0ad4b85c6)
 
