@@ -60,3 +60,5 @@ Incorporar medidas relativas al cambio climático en las políticas, estrategias
 
 
 REFERENCIAS BIBLIOGRAFICAS
+1. Geoghegan, V. S. (s/f). Adoptar medidas urgentes para combatir el cambio climático y sus efectos. Org.py. Recuperado el 10 de abril de 2024, de https://www.cadep.org.py/uploads/2019/11/ODS13-1nov.pdf
+2. ONU (2021). Informe de los Objetivos de Desarrollo Sostenible 2021. Org.py. Recuperado el 10 de abril de 2024, de https://unstats.un.org/sdgs/report/2021/The-Sustainable-Development-Goals-Report-2021_Spanish.pdf
