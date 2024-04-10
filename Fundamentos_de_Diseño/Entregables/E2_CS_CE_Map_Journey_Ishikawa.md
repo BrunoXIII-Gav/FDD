@@ -1,4 +1,6 @@
- Contexto Social
+# Problematica
+
+# Contexto Social
 
 # Contexto Económico
 
@@ -38,6 +40,10 @@ El impacto económico de la contaminación  del aire en la región de Huarochir�
 # CUSTOMER JOURNEY MAP
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/073a3132-a116-4b5a-b198-944718fb3e66)
+
+# Diagrama de Ishikawa
+
+![image]()
 
 # REFERENCIAS BIBLIOGRAFICAS
 -Banco Mundial. (2016). La contaminación atmosférica le cuesta USD 225 mil millones a la economía mundial.
