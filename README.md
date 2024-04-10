@@ -28,6 +28,10 @@ El ODS 13 es: "Adoptar medidas urgentes para combatir el cambio climático y sus
 
 ![Imagen](https://www.isglobal.org/documents/10179/6939518/sdg+13+grande+es.jpg/cba42d02-4e25-4cc3-b045-a4f1a9f0ed40?t=1539694658000)
 
+# ODS 6: AGUA LIMPIA Y SANEAMIENTO
+
+![Imagen](https://tipconsortium.net/wp-content/uploads/2020/07/E_WEB_06.png)
+
 ## ¿POR QUÉ LA ELEGIMOS?
 
 Escogimos La ODS número 13 porque observamos que el cambio climático está provocando fenómenos climáticos extremos como sequías, inundaciones, y aumento de la temperatura. En Perú, esto puede manifestarse en la disminución de las reservas de agua debido al retroceso de los glaciares en la Cordillera de los Andes, lo que afecta la disponibilidad de agua para consumo humano, agricultura y generación de energía hidroeléctrica. También, el aumento de la temperatura y la urbanización pueden contribuir a la contaminación del aire en ciudades como Lima, afectando la salud de la población y exacerbando problemas respiratorios. Además, la contaminación atmosférica puede tener efectos negativos en la calidad de los recursos naturales.
