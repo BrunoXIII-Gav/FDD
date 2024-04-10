@@ -44,7 +44,9 @@ El ODS 13 es: "Adoptar medidas urgentes para combatir el cambio climático y sus
 
 # ODS 6: AGUA LIMPIA Y SANEAMIENTO
 
-![Imagen](https://tipconsortium.net/wp-content/uploads/2020/07/E_WEB_06.png)
+<div style="text-align:center;">
+    <img src="https://tipconsortium.net/wp-content/uploads/2020/07/E_WEB_06.png" alt="Imagen" width="600px">
+</div>
 
 ## ¿POR QUÉ LA ELEGIMOS?
 
