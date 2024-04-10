@@ -11,6 +11,10 @@ Según el Banco Mundial(2016),la contaminación atmosférica le costó a la econ
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/b64df7a8-4c9d-4646-a9df-7468c03eefbf)
 
+La contaminación puede afectar al crecimiento económico de un país. Los costos asociados con la atención médica de enfermedades relacionadas con la contaminación, la restauración de ecosistemas dañados y la adaptación al cambio climático representan una carga económica significativa .
+Las comunidades más pobres y marginadas suelen ser las más afectadas por la contaminación debido a la falta de acceso a recursos y servicios que les permitan protegerse de sus efectos.
+
+
 
 
 **-Contexto económico del agua y del aire a nivel a nacional:**
