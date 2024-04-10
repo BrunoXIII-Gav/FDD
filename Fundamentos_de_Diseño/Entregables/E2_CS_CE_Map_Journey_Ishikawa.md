@@ -1,4 +1,4 @@
-# Contexto Social
+ Contexto Social
 
 # Contexto Económico
 
@@ -32,3 +32,8 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 # CUSTOMER JOURNEY MAP
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/073a3132-a116-4b5a-b198-944718fb3e66)
+
+# REFERENCIAS BIBLIOGRAFICAS
+-Banco Mundial. (2016). La contaminación atmosférica le cuesta USD 225 mil millones a la economía mundial.
+https://www.bancomundial.org/es/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion
+
