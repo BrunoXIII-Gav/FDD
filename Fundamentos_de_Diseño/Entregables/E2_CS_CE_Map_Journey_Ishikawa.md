@@ -2,7 +2,11 @@
 
 La preocupante falta de información y datos desactualizados sobre la contaminación que puede haber en Chicla, Provincia de Huarochirí, preocupa y es debido a que la ciudad Chicla se encuentra a 11km cerca de Casapalca, lugar donde existen minas de plata, cobre, zinc y plomo, entre ellas las minas Alpayana, Volcan, Los Quinuales, etc. Según SINIA (Sistema Nacional de Información Ambiental) del 2019 al 2022 ya se han reportado casos en los cuales ciudadanos han denunciado contaminación sobre todo al rio Rímac, Rio el cual se encuentra ubicado y pasa adyacentemente a la Ciudad de Chicla, sin embargo, casi no encontramos datos en Chicla que muestren una contaminación en el aire, pues la mayor fuente de información que tenemos de Chicla es por medio de la página oficial de la Red de salud de Huarochirí pero la mayor cantidad informes ambientales se generaliza en toda la provincia de Huarochirí, el bajo enfoque en el control de contaminación genera que en Chicla la probabilidad de que también este llegando a su vez contaminación a través del aire a esta ciudad también sea bastante probable debido a la cantidad de minas extractoras de metales además de posibles factores que contribuyan a la causa como el tránsito de trenes y la congestión vehicular, que según el MTC (Ministerio de Transporte y Comunicaciones) transitan al día entre 4000 y 6000 vehículos, pues según los datos de la página oficial de la red de salud de Huarochirí, esta provincia en general presenta cantidades de contaminación tanto en el aire, como el plomo y PM10, y en la contaminación del agua con residuos generado en gran mayoría por las fabricas aledañas a la ciudad. Si no es posible una regulación de estos datos ambientales, pues si no lo es ahora en algún periodo de tiempo se verán los efectos, como problemas de Salud, de no aplicar contramedidas ante estas amenazas ambientales.
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Cuenca_rio_rimac.png)
+Cuenca del del Rio Rímac, foto de la página oficial del Ministerio de Energía y Minas
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Camino_Carretera_Central.png)
+Trazo de la Carretera Central en la página oficial de Ministerios de Transporte y Telecomunicaciones
 
 # Contexto Social
 
