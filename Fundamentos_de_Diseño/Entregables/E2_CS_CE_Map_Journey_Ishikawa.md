@@ -16,6 +16,8 @@ Según el Banco Mundial(2016),la contaminación atmosférica le costó a la econ
 **-Contexto económico del agua y del aire a nivel a nacional:**
 
 L a contaminacion del aire en Peru es un problema critico que afecta tanto a ala salud como la economia.
+Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peor calidad de aire. Menciona que la concentración de contaminantes en nuestro país es siete veces mayor que lo recomendado. (OMS).El estudio se basó en la concentración anual de PM2,5, partículas pequeñas altamente dañinas para los seres humanos. La OMS sugiere un máximo de 5 µg/m³, pero Perú alcanza 29,6 µg/m³ .
+
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/30eab3a6-16cf-4446-9247-2c04e4aaba8c)
 
 
