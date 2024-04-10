@@ -24,6 +24,8 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 
 **-Contexto económico del agua y del aire a nivel a regional:**
 
+El impacto económico de la contaminación  del aire en la región de Huarochirí, Lima, es un tema de preocupación. La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.
+
 # MAPA DE EMPATÍA
 
 
@@ -36,4 +38,9 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 # REFERENCIAS BIBLIOGRAFICAS
 -Banco Mundial. (2016). La contaminación atmosférica le cuesta USD 225 mil millones a la economía mundial.
 https://www.bancomundial.org/es/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion
+
+-La República. (2022, 26 de marzo). Perú está en el puesto 1 de los 10 países de América Latina con la peor calidad de aire, según estudio de IQAir.
+https://larepublica.pe/sociedad/2022/03/26/peru-esta-en-el-puesto-1-de-los-10-paises-de-america-latina-con-la-peor-calidad-de-aire-segun-estudio-de-iqair
+
+
 
