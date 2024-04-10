@@ -10,6 +10,10 @@ Trazo de la Carretera Central en la página oficial de Ministerios de Transporte
 
 # Contexto Social
 
+**-Nivel Mundial:**
+
+La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire no alcanzan los límites fijados. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias, causando más de 6,7 millones de muertes.
+
 # Contexto Económico
 
 **-Contexto económico del agua y del aire a nivel a mundial:**
