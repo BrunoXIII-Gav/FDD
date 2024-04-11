@@ -46,16 +46,21 @@ La contaminación del aire es una problemática de mucha importancia a nivel mun
 
 
 
-## -Contexto económico  del aire a nivel a nacional: 
+## -Contexto económico  del aire a nivel a regional: 
 
-La contaminacion del aire en Peru es un problema critico que afecta tanto a ala salud como la economia.
-Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peor calidad de aire. Menciona que la concentración de contaminantes en nuestro país es siete veces mayor que lo recomendado. (OMS).El estudio se basó en la concentración anual de PM2,5, partículas pequeñas altamente dañinas para los seres humanos. La OMS sugiere un máximo de 5 µg/m³, pero Perú alcanza 29,6 µg/m³ .
+CHILE
+Uno de los principales desafíos que enfrenta este país, es la contaminación atmosférica, debido a sus actividades económicas como la minería, la industria manufacturera y la construcción, los cuales   han contribuido a la contaminación del aire en Chile.
+Chile tiene un producto geográfico bruto (PGB) de USD 923 mil millones, lo que representa un 52.4% de su PGB regional (Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. ,2021).
+
+COLOMBIA
+Colombia, caracterizado por un buen desarrollo económico en actividades productivas contaminantes, patrones de urbanización y consumo insostenibles, los cuales han sido la causa de la contaminación ambiental en este país.
+
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/30eab3a6-16cf-4446-9247-2c04e4aaba8c)
 
 
 
-## -Contexto económico  del aire a nivel a regional: 
+## -Contexto económico  del aire a nivel a nacional: 
 
 Perú, un país diverso, en donde su economía se basa en sectores como la minería ,la agricultura ,el turismo y la pesca, según un estudio, Perú se encuentra en el primer lugar entre los países de América Latina con la peor calidad de aire, con niveles de concentración de contaminantes siete veces mayores que lo recomendado por la OMS (La República,2022).
 
