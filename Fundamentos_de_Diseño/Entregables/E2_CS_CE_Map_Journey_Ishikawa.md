@@ -120,3 +120,4 @@ https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200
 13. Nosotros. (2018, febrero 16). Volcan. https://www.volcan.com.pe/nosotros/
 
 14. Servicios Corporativos. FCCA. de https://www.ferrocarrilcentral.com.pe/servicios-corporativos/
+15. World Health Organization: WHO. (2019b, julio 30). Contaminación atmosférica. https://www.who.int/es/health-topics/air-pollution#tab=tab_1
