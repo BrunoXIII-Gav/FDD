@@ -37,19 +37,16 @@ Parque automotor es el principal responsable de que la calidad del aire sea "pob
 
 # Contexto Económico
 
-## -Contexto económico del agua y del aire a nivel a mundial:
+## -Contexto económico del aire a nivel a mundial:
 
 La contaminación del aire es una problemática de mucha importancia a nivel mundial, ya que no solo afecta a la salud y al medio ambiente, sino también a la economía mundial. Según el informe del Banco mundial (2016), la contaminación atmosférica genero un costo aproximadamente de USD 225 mil millones en perdida de ingresos laborales en 2013, y no solo eso, también ocasiono pérdidas de 5.5 millones de vidas, todo esto provocó una reducción en el desarrollo humano. Los más afectados son los niños y las personas adultos mayores (Banco Mundial,2016).
-![Uploading 31e82432-13d2-4734-8f8a-1aacf73507de.jpg…]()
-
-
-La contaminación puede afectar al crecimiento económico de un país. Los costos asociados con la atención médica de enfermedades relacionadas con la contaminación, la restauración de ecosistemas dañados y la adaptación al cambio climático representan una carga económica significativa .
-Las comunidades más pobres y marginadas suelen ser las más afectadas por la contaminación debido a la falta de acceso a recursos y servicios que les permitan protegerse de sus efectos.
 
 
 
 
-## -Contexto económico del agua y del aire a nivel a nacional: 
+
+
+## -Contexto económico  del aire a nivel a nacional: 
 
 La contaminacion del aire en Peru es un problema critico que afecta tanto a ala salud como la economia.
 Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peor calidad de aire. Menciona que la concentración de contaminantes en nuestro país es siete veces mayor que lo recomendado. (OMS).El estudio se basó en la concentración anual de PM2,5, partículas pequeñas altamente dañinas para los seres humanos. La OMS sugiere un máximo de 5 µg/m³, pero Perú alcanza 29,6 µg/m³ .
@@ -58,7 +55,13 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 
 
 
-## -Contexto económico del agua y del aire a nivel a regional: 
+## -Contexto económico  del aire a nivel a regional: 
+
+Perú, un país diverso, en donde su economía se basa en sectores como la minería ,la agricultura ,el turismo y la pesca, según un estudio, Perú se encuentra en el primer lugar entre los países de América Latina con la peor calidad de aire, con niveles de concentración de contaminantes siete veces mayores que lo recomendado por la OMS (La República,2022).
+                                      
+                                      FIGURA 3
+
+La Figura 3 muestra el Reporte Mundial de Calidad de Aire 2021 para Latinoamérica, específicamente la concentración promedio de PM2.5 (partículas finas) en diferentes países de la región. Esto refleja las disparidades en la calidad del aire entre los países de Latinoamérica, siendo Perú el que enfrenta los mayores retos en cuanto a la contaminación atmosférica.
 
 El impacto económico de la contaminación  del aire en la región de Huarochirí, Lima, es un tema de preocupación. La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.Huarochirí enfrenta desafíos relacionados con la calidad del aire debido a diversas actividades humanas y factores ambientales.
 
