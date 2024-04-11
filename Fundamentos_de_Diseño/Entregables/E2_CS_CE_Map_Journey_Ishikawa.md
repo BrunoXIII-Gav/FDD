@@ -15,16 +15,23 @@ Trazo de la Carretera Central en la página oficial de Ministerios de Transporte
 La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire no alcanzan los límites fijados. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/mapa%20de%20la%20contaminaci%C3%B3n%20del%20aire%20-%20OMS.jpg)
+Mapa mundial que muestra cuán contaminado está el aire. Fuente: OMS 
 
 ## -Nivel Regional:
 
 La contaminación atmosférica es uno de los principales riesgos ambientales para la salud en América, alrededor de 6,7 millones de muertes prematuras se atribuyeron anualmente a los efectos de la contaminación del aire. Según el (Informe Mundial sobre la Calidad del Aire 2023) Perú y Chile se encuentran entre los países con el mayor nivel de contaminación del aire del mundo, estos dos países sudamericanos ocupan los puestos 38 y 43 del ranking global, respectivamente. La concentración de partículas ligeras, uno de los indicadores más usados para medir la polución del aire, alcanza un promedio de 23,5 microgramos por metro cúbico (μg/m3) en Perú y 22,2 en Chile.
+
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/clasificaci%C3%B3n%20del%20aire%20-%20America.jpg)
+Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
+
 
 ## -Nivel Nacional:
 En Sudamérica, Perú es el país con la peor calidad del aire y, a la vez, la segunda nación con más muertes prematuras atribuibles a la polución. El distrito de San Juan de Lurigancho reportó niveles alarmantes de contaminación, alcanzando hasta 41.2 μg/m3.
 
 Por otro lado, En la ciudad de Arequipa, este 2023 se identificaron 145 µg/m3. Panorama similar ocurre con las ciudades de Ica (117,6 µg/m3), Trujillo (184,96 µg/m3), Ucayali (120,5 µg/m3).
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/contaminaci%C3%B3n%20del%20aire%2C%20lima%20metropolitana.png)
+Parque automotor es el principal responsable de que la calidad del aire sea "pobre" en Lima Metropolitana. Foto: Andina.
 
 
 
