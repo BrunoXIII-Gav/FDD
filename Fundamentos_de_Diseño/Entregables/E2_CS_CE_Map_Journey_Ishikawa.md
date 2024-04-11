@@ -69,7 +69,9 @@ La Figura 3 muestra el Reporte Mundial de Calidad de Aire 2021 para Latinoaméri
 
 El impacto económico de la contaminación del aire en la región de Huarochirí, Lima, es un tema de preocupación,debido a que no tenemos muchos datos de esta zona . La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.
 
+# Diagrama de Ishikawa
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Diagrama%20de%20Ishikawa.png)
 
 # MAPA DE EMPATÍA
 
@@ -78,10 +80,6 @@ El impacto económico de la contaminación del aire en la región de Huarochirí
 # CUSTOMER JOURNEY MAP
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/1b85863b-79e3-4656-a8ad-210d1a83ff1c)
-
-# Diagrama de Ishikawa
-
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Diagrama%20de%20Ishikawa.png)
 
 # Problemática
 
