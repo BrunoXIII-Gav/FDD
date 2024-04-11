@@ -86,7 +86,7 @@ El impacto económico de la contaminación del aire en la región de Huarochirí
 
 # CUSTOMER JOURNEY MAP
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/1b85863b-79e3-4656-a8ad-210d1a83ff1c)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/35273619-aea5-4855-84c1-adf9b05ebc64)
 
 # Problemática
 
