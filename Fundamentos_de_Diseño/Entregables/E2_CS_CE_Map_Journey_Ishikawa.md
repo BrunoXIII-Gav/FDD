@@ -1,3 +1,5 @@
+Link de canva para la exposición del entregable numero 2: https://www.canva.com/design/DAGB42HYyN8/ltMkRWsGlisYDpjjlf_5Jw/edit
+
 # Contexto Social
 
 ## -Nivel Mundial: 
