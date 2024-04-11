@@ -1,4 +1,4 @@
-# Problemática
+![486746d0-7d66-413a-902e-1629dc407528](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/bdf7cfc8-3614-461e-9bb1-f3813a62a45c)# Problemática
 
 La preocupante falta de información y datos desactualizados sobre la contaminación que puede haber en Chicla, Provincia de Huarochirí, preocupa y es debido a que la ciudad Chicla se encuentra a 11km cerca de Casapalca, lugar donde existen minas de plata, cobre, zinc y plomo, entre ellas las minas Alpayana, Volcan, Los Quinuales, etc. Según SINIA (Sistema Nacional de Información Ambiental) del 2019 al 2022 ya se han reportado casos en los cuales ciudadanos han denunciado contaminación sobre todo al rio Rímac, Rio el cual se encuentra ubicado y pasa adyacentemente a la Ciudad de Chicla, sin embargo, casi no encontramos datos en Chicla que muestren una contaminación en el aire, pues la mayor fuente de información que tenemos de Chicla es por medio de la página oficial de la Red de salud de Huarochirí pero la mayor cantidad informes ambientales se generaliza en toda la provincia de Huarochirí, el bajo enfoque en el control de contaminación genera que en Chicla la probabilidad de que también este llegando a su vez contaminación a través del aire a esta ciudad también sea bastante probable debido a la cantidad de minas extractoras de metales además de posibles factores que contribuyan a la causa como el tránsito de trenes y la congestión vehicular, que según el MTC (Ministerio de Transporte y Comunicaciones) transitan al día entre 4000 y 6000 vehículos, pues según los datos de la página oficial de la red de salud de Huarochirí, esta provincia en general presenta cantidades de contaminación tanto en el aire, como el plomo y PM10, y en la contaminación del agua con residuos generado en gran mayoría por las fabricas aledañas a la ciudad. Si no es posible una regulación de estos datos ambientales, pues si no lo es ahora en algún periodo de tiempo se verán los efectos, como problemas de Salud, de no aplicar contramedidas ante estas amenazas ambientales.
 
@@ -58,12 +58,21 @@ Según la OMS, Perú ocupa el primer lugar en América Latina en cuanto a la peo
 ## -Contexto económico  del aire a nivel a regional: 
 
 Perú, un país diverso, en donde su economía se basa en sectores como la minería ,la agricultura ,el turismo y la pesca, según un estudio, Perú se encuentra en el primer lugar entre los países de América Latina con la peor calidad de aire, con niveles de concentración de contaminantes siete veces mayores que lo recomendado por la OMS (La República,2022).
+
+
+
+![57f955c8-5b04-4931-84ef-688845dce6c0](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/0af3447d-a086-4266-b0bf-e8d8f62c3bc0)
+
                                       
                                       FIGURA 3
 
 La Figura 3 muestra el Reporte Mundial de Calidad de Aire 2021 para Latinoamérica, específicamente la concentración promedio de PM2.5 (partículas finas) en diferentes países de la región. Esto refleja las disparidades en la calidad del aire entre los países de Latinoamérica, siendo Perú el que enfrenta los mayores retos en cuanto a la contaminación atmosférica.
 
-El impacto económico de la contaminación  del aire en la región de Huarochirí, Lima, es un tema de preocupación. La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.Huarochirí enfrenta desafíos relacionados con la calidad del aire debido a diversas actividades humanas y factores ambientales.
+-Huarochirí
+
+El impacto económico de la contaminación del aire en la región de Huarochirí, Lima, es un tema de preocupación,debido a que no tenemos muchos datos de esta zona . La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.
+
+
 
 # MAPA DE EMPATÍA
 
