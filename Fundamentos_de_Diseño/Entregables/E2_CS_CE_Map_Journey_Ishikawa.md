@@ -101,5 +101,14 @@ https://www.bancomundial.org/es/news/press-release/2016/09/08/air-pollution-deat
 -La República. (2022, 26 de marzo). Perú está en el puesto 1 de los 10 países de América Latina con la peor calidad de aire, según estudio de IQAir.
 https://larepublica.pe/sociedad/2022/03/26/peru-esta-en-el-puesto-1-de-los-10-paises-de-america-latina-con-la-peor-calidad-de-aire-segun-estudio-de-iqair
 
+Analisis Situacional de Salud - Red de Salud Huarochiri; (2023). Gob.pe. ANALISIS SITUACIONAL DE SALUD, de http://www.redhuarochiri.gob.pe/rhuarochiri/dis/asis
+
+DENUNCIAS AMBIENTALES DEL 2019 AL 2022 REGION LIMA. (2022). Gob.pe. de https://sinia.minam.gob.pe/documentos/denuncias-ambientales-2019-2022-region-lima
+
+Ministerio de Transportes y Comunicaciones (Fernando Alarcón,2016). Gob.pe. La importancia de la Carretera Central, de https://portal.mtc.gob.pe/transportes/terrestre/documentos/REPORTE%20SOBRE%20V%C3%8DA%20ALTERNA%20A%20LA%20CARRETERA%20CENTRAL%20v5%20-%20NEUTRO.pdf
+
+Nosotros. Alpayana.com. de https://alpayana.com/nosotros/
+
+Nosotros. (2018, febrero 16). Volcan. https://www.volcan.com.pe/nosotros/
 
 
