@@ -105,7 +105,10 @@ https://larepublica.pe/sociedad/2022/03/26/peru-esta-en-el-puesto-1-de-los-10-pa
 7. Jaime, G. Z. E. (2019). Calidad de agua del Río Rímac sector Chicla, Provincia de  Huarochiri, departamento de Lima. https://repositorio.unfv.edu.pe/handle/20.500.13084/3607
 8. Minam busca evitar la contaminación por pasivos ambientales mineros en Huarochirí. (s. f.). Noticias | Diario Oficial el Peruano. https://elperuano.pe/noticia/143118-minam-busca-evitar-la-contaminacion-por-pasivos-ambientales-mineros-en-huarochiri
 9. El OEFA ordenó cubrir residuos sólidos y controlar la propagación de vectores en botadero de San Bartolomé en Huarochirí. (s. f.). Noticias - Organismo de Evaluación y Fiscalización Ambiental - Plataforma del Estado Peruano. https://www.gob.pe/institucion/oefa/noticias/700547-el-oefa-ordeno-cubrir-residuos-solidos-y-controlar-la-propagacion-de-vectores-en-botadero-de-san-bartolome-en-huarochiri
-10. Cooperaccion. (2021, 21 junio). Huarochirí: Policía reprimió protesta de comunidad contra contaminación de minera. 
+10. Cooperaccion. (2021, 21 junio). Huarochirí: Policía reprimió protesta de comunidad contra contaminación de minera.
+11. Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. (2021). Crecimiento económico y calidad ambiental en América Latina y el Caribe. Economía, Sociedad y Territorio,
+https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200017
+
 
 Nosotros. Alpayana.com. de https://alpayana.com/nosotros/
 
