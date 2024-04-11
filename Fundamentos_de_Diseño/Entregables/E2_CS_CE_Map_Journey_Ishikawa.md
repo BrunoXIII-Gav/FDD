@@ -43,6 +43,13 @@ CHILE
 Uno de los principales desafíos que enfrenta este país, es la contaminación atmosférica, debido a sus actividades económicas como la minería, la industria manufacturera y la construcción, los cuales   han contribuido a la contaminación del aire en Chile.
 Chile tiene un producto geográfico bruto (PGB) de USD 923 mil millones, lo que representa un 52.4% de su PGB regional (Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. ,2021).
 
+
+NOTA:La siguiente imagen muestra las emisiones residenciales de MP2.5 (partículas finas) por región en Chile para el año 2017 bajo el escenario BAU (Business as Usual), y las proyecciones para el año 2050 bajo dos escenarios
+
+  ![b2ab229c-37ae-4c9f-87d7-5d17bc7149cd](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/a88b3536-1b7e-49df-bad0-2073b7421e1b)
+
+  FUENTE:Centro de Ciencia del Clima y la Resiliencia(2020)
+
 COLOMBIA
 
 Colombia, caracterizado por un buen desarrollo económico en actividades productivas contaminantes, patrones de urbanización y consumo insostenibles, los cuales han sido la causa de la contaminación ambiental en este país.
