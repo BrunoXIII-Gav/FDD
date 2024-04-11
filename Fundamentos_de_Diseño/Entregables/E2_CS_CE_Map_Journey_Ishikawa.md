@@ -83,12 +83,11 @@ El impacto económico de la contaminación del aire en la región de Huarochirí
 
 # MAPA DE EMPATÍA
 
-
-![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/3ed2e64c-e7b2-49df-b23f-55d0ad4b85c6)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/d6a22127-8978-4da0-8cf7-984827f2e891)
 
 # CUSTOMER JOURNEY MAP
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/073a3132-a116-4b5a-b198-944718fb3e66)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/1b85863b-79e3-4656-a8ad-210d1a83ff1c)
 
 # Diagrama de Ishikawa
 
