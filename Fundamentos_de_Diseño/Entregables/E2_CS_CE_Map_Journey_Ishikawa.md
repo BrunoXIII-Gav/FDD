@@ -31,6 +31,7 @@ Por otro lado, En la ciudad de Arequipa, este 2023 se identificaron 145 µg/m3. 
 ## -Contexto económico del agua y del aire a nivel a mundial:
 
 La contaminación del aire es una problemática de mucha importancia a nivel mundial, ya que no solo afecta a la salud y al medio ambiente, sino también a la economía mundial. Según el informe del Banco mundial (2016), la contaminación atmosférica genero un costo aproximadamente de USD 225 mil millones en perdida de ingresos laborales en 2013, y no solo eso, también ocasiono pérdidas de 5.5 millones de vidas, todo esto provocó una reducción en el desarrollo humano. Los más afectados son los niños y las personas adultos mayores (Banco Mundial,2016).
+![Uploading 31e82432-13d2-4734-8f8a-1aacf73507de.jpg…]()
 
 
 La contaminación puede afectar al crecimiento económico de un país. Los costos asociados con la atención médica de enfermedades relacionadas con la contaminación, la restauración de ecosistemas dañados y la adaptación al cambio climático representan una carga económica significativa .
