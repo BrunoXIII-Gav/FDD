@@ -123,5 +123,5 @@ https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200
 14. Servicios Corporativos. FCCA. de https://www.ferrocarrilcentral.com.pe/servicios-corporativos/
 15. World Health Organization: WHO. (2019b, julio 30). Contaminación atmosférica. https://www.who.int/es/health-topics/air-pollution#tab=tab_1
 
-# Link de material de apoyo:
+# Link de diapositivas:
 https://www.canva.com/design/DAGB42HYyN8/ltMkRWsGlisYDpjjlf_5Jw/edit
