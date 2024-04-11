@@ -108,9 +108,8 @@ https://larepublica.pe/sociedad/2022/03/26/peru-esta-en-el-puesto-1-de-los-10-pa
 11. Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. (2021). Crecimiento económico y calidad ambiental en América Latina y el Caribe. Economía, Sociedad y Territorio,
 https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200017
 
+12. Nosotros. Alpayana.com. de https://alpayana.com/nosotros/
 
-Nosotros. Alpayana.com. de https://alpayana.com/nosotros/
-
-Nosotros. (2018, febrero 16). Volcan. https://www.volcan.com.pe/nosotros/
+13. Nosotros. (2018, febrero 16). Volcan. https://www.volcan.com.pe/nosotros/
 
 
