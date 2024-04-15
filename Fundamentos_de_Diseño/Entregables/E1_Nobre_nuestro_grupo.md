@@ -1,7 +1,7 @@
 # Conoce nuestro grupo
 
 
-![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/caratula.png)
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_presentacion/caratula.png)
 
 
 ![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/2_v2.png)
