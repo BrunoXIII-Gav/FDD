@@ -32,7 +32,7 @@ Nuestro equipo está conformado por:
 Si deseas conocer más sobre nosotros, te invitamos a entrar a este [link:](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Fundamentos_de_Dise%C3%B1o/Entregables/Sobre_nuestro_grupo.md)
 
 <div style="text-align:center;">
-    <img src="Archivos_de_FDD/Imagenes/Foto_integrantes_FDD.jpg" alt="Imagen" width="600px">
+    <img src="https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_presentacion/Foto_integrantes_FDD.jpg" alt="Imagen" width="600px">
 </div>
 
 
