@@ -2,7 +2,7 @@
 
 ## 1.CONTEXTO CIENTÍFICO 
 
-![Imagen](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/1_articulo_imagen_portada.png)
+
 
 ## 2.CONTEXTO COMERCIAL
 
