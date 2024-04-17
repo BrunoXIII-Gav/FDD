@@ -51,27 +51,19 @@ La patente WO2023042222 describe un sistema avanzado de monitoreo de la calidad 
 
 
 Patente N°2: 
-Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Captura%20de%20pantalla%202024-04-16%20212902.png)
+Monitor de aire inteligente para detectar contaminantes emitidos por vehiculos mediante el internet de las cosas (IOT)
 
-La patente presenta un dispositivo portátil para la medición de la calidad del aire exterior que utiliza sensores electroquímicos y de material particulado (PM) con conexión a la nube. El prototipo diseñado recopila datos de concentración de los principales contaminantes atmosféricos, como NO2, NO, CO, O3, PM2.5 y PM10, así como de factores ambientales como temperatura, humedad, ubicación y fecha. Este sistema de bajo costo incorpora tecnología IoT que se conecta a Internet a través de un módulo GSM y envía todos los datos en tiempo real a una plataforma en la nube con capacidad de almacenamiento y procesamiento. Dos dispositivos idénticos fueron fabricados e instalados en una unidad móvil de referencia y desplegados en Badajoz, España. Los resultados de una campaña de campo de dos meses se presentan y publican, demostrando un buen rendimiento en la medición de contaminantes gaseosos y partículas PM mediante técnicas de regresión lineal y redes neuronales. 
+Numero de publicación: 202021000550
 
-El sistema incluye un diseño cuidadoso de la electrónica para reducir el ruido eléctrico y aumentar la precisión de las mediciones, con una operación general que implica la recopilación de datos por parte de un microcontrolador, el envío de estos datos al servidor NanoSen-AQM a través de un módulo GSM o Ethernet utilizando el protocolo de comunicación MQTT, almacenamiento de datos en una tarjeta SD y la posibilidad de verificación del funcionamiento mediante comunicación Bluetooth.
+Fecha de publicación: 09.07.2021
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/imagen_2024-04-16_215220941.png)
+CIP: H04L H04N G06Q H04W G06F
+
+La presente invención describe un sistema o método para un monitor de aire inteligente que detecta contaminantes emitidos por vehículos en un área específica utilizando Internet de las Cosas (IoT). El problema de la contaminación ambiental, especialmente agudo en áreas urbanas debido a emisiones de vehículos y otras fuentes, requiere una medición precisa y constante de los niveles de contaminantes para garantizar el cumplimiento de estándares gubernamentales. Actualmente, los sistemas de detección de contaminación enfrentan desafíos como entornos difíciles, niveles de nitrógeno y oxígeno, y exposición al vapor de agua, lo que afecta su confiabilidad. La invención propone un sistema que utiliza sensores y cámaras instalados en áreas específicas para monitorear datos meteorológicos y detectar gases peligrosos. Estos datos se envían a un servidor en la nube a través de un módem Wi-Fi, donde se comparan con registros anteriores para determinar los niveles de contaminantes. La aplicación de IoT permite enviar estos resultados a una pantalla de visualización. Además, el sistema puede enviar alertas o mensajes SMS a dispositivos electrónicos sobre niveles de contaminación, permitiendo tomar medidas adecuadas. El alcance de este monitor de aire inteligente puede ampliarse con más características para mejorar su funcionalidad y efectividad en el monitoreo y control de la contaminación atmosférica.
 
 Patente N°3: 
-Protótipo de medidor de gases poluentes usando tecnologia de baixo custo
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Captura%20de%20pantalla%202024-04-16%20215327.png)
-
-El prototipo consiste en un dispositivo que utiliza la plataforma Arduino, sensores eletroquímicos (MQ-7 y MQ-135) y un display OLED para medir la concentración de los gases CO y CO2, así como la temperatura y humedad del entorno. La información recopilada por los sensores se procesa a través de la plataforma Arduino y se muestra en el display OLED con indicadores de calidad del aire en colores verde, amarillo y rojo, representando niveles de concentración buenos, malos o peligrosos respectivamente.
-Durante pruebas realizadas en ambientes abiertos y cerrados, se observó que la concentración de CO2 aumenta con la presencia de más personas en el lugar, mientras que la concentración de CO se incrementa cerca de fuentes emisoras como vehículos. Los resultados de las mediciones realizadas con el prototipo fueron comparados con los valores obtenidos por medidores comerciales, demostrando coherencia y precisión en las mediciones.
-
-Este prototipo se destaca por su bajo costo en comparación con los equipos comerciales disponibles en el mercado, permitiendo medir la concentración de dos gases distintos de manera efectiva y accesible. Su diseño y funcionalidad lo hacen ideal para alertar a personas no especializadas sobre los niveles de concentración de gases en su entorno, contribuyendo así a la concienciación sobre la calidad del aire y la salud pública.
-
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/imagen_2024-04-16_215415869.png)
 
 
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
@@ -87,6 +79,3 @@ Este prototipo se destaca por su bajo costo en comparación con los equipos come
 
 ## 6.BIBLIOGRAFÍA
 
-1. Arroyo, P., Gómez-Suárez, J., Suárez, J. I., & Lozano, J. (2021). Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection. Sensors, 21(18), 6228. https://doi.org/10.3390/s21186228
-
-2. Stefan, I. A., Ferreira, P., & Sousa, A. S. (2020). Protótipo de medidor de gases poluentes usando tecnologia de baixo custo. Principia/Revista Principia, 1(49), 31. https://doi.org/10.18265/1517-03062015v1n49p31-42
