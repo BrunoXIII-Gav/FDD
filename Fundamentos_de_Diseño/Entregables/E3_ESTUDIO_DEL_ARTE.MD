@@ -87,3 +87,5 @@ El sistema de monitoreo de contaminación del aire utilizando Internet de Vehíc
 
 ## 6.BIBLIOGRAFÍA
 
+1. https://www.sciencedirect.com/science/article/pii/S1574954124001109?pes=vor#s0110
+2. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2313-29572022000300199
