@@ -13,6 +13,8 @@ HypeAIR integra dos metodologías de calibración: la primera se basa en una com
 
 ### Artículo 3
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/3_articulo_imagen_portada.png)
+
 ## 2.CONTEXTO COMERCIAL
 
 Patente 1: Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection
