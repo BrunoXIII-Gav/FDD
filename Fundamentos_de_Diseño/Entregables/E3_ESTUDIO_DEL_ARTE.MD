@@ -64,7 +64,15 @@ La presente invención describe un sistema o método para un monitor de aire int
 
 Patente N°3: 
 
+Sistema de vigilancia de la contaminación atmosférica mediante el internet de los vehículos y sensores de contaminación
 
+Numero de publicación: 2021102486
+
+Fecha de publicación: 03.06.2021
+
+CIP: G01M 15/10 G01N 33/00
+
+El sistema de monitoreo de contaminación del aire utilizando Internet de Vehículos y sensores de contaminación es un prototipo diseñado para mejorar la calidad del aire en entornos urbanos. Este sistema consta de módulos de sensores, comunicación inalámbrica con la nube y un módulo de procesamiento con base de datos. Su objetivo principal es monitorear los contaminantes del aire y generar alertas avanzadas al predecir los niveles de contaminación en la ciudad. Utiliza sensores de gases para detectar las emisiones de los vehículos que afectan las áreas urbanas. El sistema ha demostrado una precisión del 99.23% en la generación de alertas, superando el rendimiento de sistemas existentes. La arquitectura del sistema incluye una capa de percepción con sensores de gas en vehículos, una capa de red para garantizar la conectividad y una capa de aplicación para analizar, almacenar y procesar datos, tomando decisiones sobre situaciones de riesgo. La implementación exitosa de este prototipo demuestra su eficacia en la monitorización y alerta temprana de la contaminación del aire en entornos urbanos, lo que contribuye a mejorar la calidad de vida de los habitantes y proteger el medio ambiente.
 
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
 
