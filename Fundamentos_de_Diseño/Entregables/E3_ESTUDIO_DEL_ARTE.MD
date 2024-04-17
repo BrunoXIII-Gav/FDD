@@ -13,6 +13,8 @@ HypeAIR integra dos metodologías de calibración: la primera se basa en una com
 
 ### Artículo 3
 
+##### Low Cost Sensor with IoT LoRaWAN Connectivity and Machine Learning Based Calibration for Air Pollution Monitoring
+
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/3_articulo_imagen_portada.png)
 
 ## 2.CONTEXTO COMERCIAL
