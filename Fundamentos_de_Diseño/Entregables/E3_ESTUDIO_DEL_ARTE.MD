@@ -11,6 +11,10 @@ HypeAIR integra dos metodologías de calibración: la primera se basa en una com
 
 ### Artículo 2:
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/2_art%C3%ADculo_imagen_portada.png.png)
+
+El artículo describe un estudio realizado en Huancayo , que enfrenta problemas de contaminación atmosférica, particularmente con material particulado fino (PM2.5). Debido a los altos costos de infraestructura y equipos de monitoreo convencionales, se emplearon sensores de bajo costo para evaluar la variación temporal y las fuentes de PM2.5 en tres sitios de la ciudad. . Se emplearon sensores PurpleAir PA-II modelo PMS5003 desde agosto de 2018 hasta junio de 2019. Los datos recopilados se analizaron estadísticamente para examinar cambios temporales y se utilizaron retrotrayectorias a través del modelo HYSPLIT para identificar las fuentes de emisión. Las mediciones se realizaron en tiempo real durante campañas simultáneas en los tres sitios, utilizando sensores Plantower modelo PMS5003 de PurpleAir, con una frecuencia de registro de datos por minuto. Estos sensores utilizan rayos láser que inciden sobre las partículas de diferentes tamaños que entran en el dispositivo. La luz reflejada por estas partículas es detectada por diodos receptores. Posteriormente, las señales recibidas son sometidas a filtrado y amplificación a través de filtros y circuitos electrónicos. Finalmente, mediante algoritmos complejos, estas señales son convertidas en concentraciones de PM2.5, proporcionando así mediciones precisas de la contaminación atmosférica (Zheng et al., 2018).
+
 ### Artículo 3:
 
 ### Low Cost Sensor with IoT LoRaWAN Connectivity and Machine Learning Based Calibration for Air Pollution Monitoring
