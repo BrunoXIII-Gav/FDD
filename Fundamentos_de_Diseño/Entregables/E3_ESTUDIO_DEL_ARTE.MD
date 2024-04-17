@@ -33,7 +33,20 @@ Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a 
 
 ## 2.CONTEXTO COMERCIAL
 
-Patente 1: Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection
+Patente N°1:
+
+Red de sensores para monitoreo de la calidad del aire ambiente 
+
+Numero de publicación: WO/2023/042222
+
+Fecha de Publicación: 23.03.2023
+
+CIP: H04W 4/38 (2018.1) G01N 33/00 (2006.1)
+
+La patente WO2023042222 describe un sistema avanzado de monitoreo de la calidad del aire ambiental a través una red de sensores inalámbricos de bajo costo, denominada SENSurAIR. Este sistema se enfoca en mejorar la precisión y validación de los datos del estado del aire en tiempo real, utilizando una técnica de calibración adaptativa en campo. La innovación radica en su capacidad para proporcionar monitoreo en tiempo real con alta resolución espacial y temporal de contaminantes como NOx, SOx, O3, CO, PM2.5 y PM10, superando las limitaciones de los sistemas de monitoreo actuales que presentan retrasos significativos en la reportación de datos y carecen de la densidad de medición necesaria para mapas detallados de contaminantes. La red SENSurAIR permite la recopilación eficiente de datos a través de una plataforma inalámbrica basada en GSM/Wi-Fi, facilitando la subida de datos a servidores seguros para su análisis y previsión. La calibración en campo de los sensores asegura la fiabilidad y exactitud de los datos, crucial para la formulación de medidas de control y la emisión de avisos de salud basados en el Índice de Calidad del Aire (AQI). Este sistema representa un avance significativo en la tecnología de monitoreo ambiental, ofreciendo una solución escalable y de costo económico para la vigilancia del estado del aire en tiempo real.
+
+
+Patente N°2: Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Captura%20de%20pantalla%202024-04-16%20212902.png)
 
@@ -43,7 +56,7 @@ El sistema incluye un diseño cuidadoso de la electrónica para reducir el ruido
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/imagen_2024-04-16_215220941.png)
 
-Patente 2: Protótipo de medidor de gases poluentes usando tecnologia de baixo custo
+Patente N°3: Protótipo de medidor de gases poluentes usando tecnologia de baixo custo
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Captura%20de%20pantalla%202024-04-16%20215327.png)
 
