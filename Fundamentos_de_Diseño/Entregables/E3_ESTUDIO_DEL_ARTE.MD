@@ -43,7 +43,7 @@ Este prototipo se destaca por su bajo costo en comparación con los equipos come
 
 
 ## 4.LISTA DE REQUERIMIENTOS NO FUNCIONALES
-
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/2.png)
 
 ## 5.DEFINICIÓN DE SOLUCIÓN A IMPLEMENTAR
 
