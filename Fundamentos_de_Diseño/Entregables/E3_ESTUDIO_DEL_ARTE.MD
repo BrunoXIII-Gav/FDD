@@ -2,7 +2,7 @@
 
 ## 1.CONTEXTO CIENTÍFICO 
 
-
+![image]()
 
 ## 2.CONTEXTO COMERCIAL
 
