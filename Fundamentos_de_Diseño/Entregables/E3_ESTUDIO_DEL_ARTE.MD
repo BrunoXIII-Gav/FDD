@@ -50,3 +50,6 @@ Este prototipo se destaca por su bajo costo en comparación con los equipos come
 
 ## 6.BIBLIOGRAFÍA
 
+1. Arroyo, P., Gómez-Suárez, J., Suárez, J. I., & Lozano, J. (2021). Low-Cost Air Quality Measurement System Based on Electrochemical and PM Sensors with Cloud Connection. Sensors, 21(18), 6228. https://doi.org/10.3390/s21186228
+
+2. Stefan, I. A., Ferreira, P., & Sousa, A. S. (2020). Protótipo de medidor de gases poluentes usando tecnologia de baixo custo. Principia/Revista Principia, 1(49), 31. https://doi.org/10.18265/1517-03062015v1n49p31-42
