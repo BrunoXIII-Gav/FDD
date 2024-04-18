@@ -37,7 +37,7 @@ Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a 
 
 ## 2.CONTEXTO COMERCIAL
 
-- **Patente N°1:**
+### - **Patente N°1:**
 
 Red de sensores para monitoreo de la calidad del aire ambiente 
 
@@ -50,7 +50,7 @@ Red de sensores para monitoreo de la calidad del aire ambiente
 La patente WO2023042222 describe un sistema avanzado de monitoreo de la calidad del aire ambiental a través una red de sensores inalámbricos de bajo costo, denominada SENSurAIR. Este sistema se enfoca en mejorar la precisión y validación de los datos del estado del aire en tiempo real, utilizando una técnica de calibración adaptativa en campo. La innovación radica en su capacidad para proporcionar monitoreo en tiempo real con alta resolución espacial y temporal de contaminantes como NOx, SOx, O3, CO, PM2.5 y PM10, superando las limitaciones de los sistemas de monitoreo actuales que presentan retrasos significativos en la reportación de datos y carecen de la densidad de medición necesaria para mapas detallados de contaminantes. La red SENSurAIR permite la recopilación eficiente de datos a través de una plataforma inalámbrica basada en GSM/Wi-Fi, facilitando la subida de datos a servidores seguros para su análisis y previsión. La calibración en campo de los sensores asegura la fiabilidad y exactitud de los datos, crucial para la formulación de medidas de control y la emisión de avisos de salud basados en el Índice de Calidad del Aire (AQI). Este sistema representa un avance significativo en la tecnología de monitoreo ambiental, ofreciendo una solución escalable y de costo económico para la vigilancia del estado del aire en tiempo real.
 
 
-- **Patente N°2:** 
+## - **Patente N°2:** 
 
 Monitor de aire inteligente para detectar contaminantes emitidos por vehiculos mediante el internet de las cosas (IOT)
 
@@ -62,7 +62,7 @@ Monitor de aire inteligente para detectar contaminantes emitidos por vehiculos m
 
 La presente invención describe un sistema o método para un monitor de aire inteligente que detecta contaminantes emitidos por vehículos en un área específica utilizando Internet de las Cosas (IoT). El problema de la contaminación ambiental, especialmente agudo en áreas urbanas debido a emisiones de vehículos y otras fuentes, requiere una medición precisa y constante de los niveles de contaminantes para garantizar el cumplimiento de estándares gubernamentales. Actualmente, los sistemas de detección de contaminación enfrentan desafíos como entornos difíciles, niveles de nitrógeno y oxígeno, y exposición al vapor de agua, lo que afecta su confiabilidad. La invención propone un sistema que utiliza sensores y cámaras instalados en áreas específicas para monitorear datos meteorológicos y detectar gases peligrosos. Estos datos se envían a un servidor en la nube a través de un módem Wi-Fi, donde se comparan con registros anteriores para determinar los niveles de contaminantes. La aplicación de IoT permite enviar estos resultados a una pantalla de visualización. Además, el sistema puede enviar alertas o mensajes SMS a dispositivos electrónicos sobre niveles de contaminación, permitiendo tomar medidas adecuadas. El alcance de este monitor de aire inteligente puede ampliarse con más características para mejorar su funcionalidad y efectividad en el monitoreo y control de la contaminación atmosférica.
 
-- **Patente N°3:** 
+## - **Patente N°3:** 
 
 Sistema de vigilancia de la contaminación atmosférica mediante el internet de los vehículos y sensores de contaminación
 
