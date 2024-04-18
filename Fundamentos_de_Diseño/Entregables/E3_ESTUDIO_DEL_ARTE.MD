@@ -134,8 +134,8 @@ Desarrollaremos un dispositivo donde usaremos sensores de aire que puedan medir 
 
 ## 6.BIBLIOGRAFÍA
 
-1. https://www.sciencedirect.com/science/article/pii/S1574954124001109?pes=vor#s0110
-2. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2313-29572022000300199
+1. Bachechi, C., Rollo, F., & Po, L. (2024). HypeAIR: A novel framework for real-time low-cost sensor calibration for air quality monitoring in smart cities. Ecological Informatics, 81(102568), 102568. https://doi.org/10.1016/j.ecoinf.2024.102568
+2. Ulloa Ninahuamán, J., Alvarez-Tolentino, D. M., Peña Rojas, A., & Suarez-Salas, L. (2022). Sensores de bajo costo en la caracterización de partículas finas (PM2.5) de una ciudad altoandina. Revista de Investigaciones Altoandinas - Journal of High Andean Research, 24(3), 199–207. https://doi.org/10.18271/ria.2022.468
 3. Ali, S., Glass, T., Parr, B., Potgieter, J., & Alam, F. (2021). Low cost sensor with IoT LoRaWAN connectivity and machine learning-based calibration for air pollution monitoring. IEEE transactions on instrumentation and measurement, 70, 1–11. https://doi.org/10.1109/tim.2020.3034109
 4. WIPO - search international and national patent collections. (2023), SENSOR NETWORK FOR AMBIENT AIR QUALITY MONITORING. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023042222&_cid=P12-LV1F2L-16452-1
 5. Mr. Bhaskar Vijay Ajgaonkar (2021). SMART AIR MONITOR FOR DETECTING POLLUTANTS EMITTED FROM VEHICLES USING INTERNET OF THINGS (IOT). India: Office of the Controller General of Patents, Designs and Trade Marks. https://n9.cl/njb9ur
