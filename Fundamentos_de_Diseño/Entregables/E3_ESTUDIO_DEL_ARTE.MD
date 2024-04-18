@@ -41,6 +41,8 @@ Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a 
 
 ### ** - Medidor de calidad de aire dióxido de carbono, monóxido, oxígeno, humedad y temperatura AQ-9901SD **
 
+Este medidor ambiental multifunción destaca por su capacidad para medir seis parámetros clave relacionados con la calidad del aire: CO², CO, O2, temperatura, humedad y punto de rocío. Ofrece lecturas simultáneas de dos parámetros en su pantalla y asegura una alta precisión en las mediciones. Sus características adicionales incluyen alarmas ajustables, modo de registro de máximos y mínimos, y la posibilidad de conectarse a un ordenador para transferir datos. Es fácil de usar y cuenta con una memoria interna a través de una tarjeta SD extraíble. Recomendado para una amplia variedad de aplicaciones, desde sistemas de aire acondicionado hasta espacios interiores públicos, oficinas y más. Viene con accesorios como una tarjeta de memoria SD de 2GB, baterías, maletín de transporte y varias sondas para diferentes parámetros. Además, ofrece opciones adicionales como software y cable USB, así como un adaptador de corriente opcional.
+
 
 ### ** - Medidor ambiental Digi-Sense; Medidor de velocidad, humedad, temperatura y luz del viento **
 
