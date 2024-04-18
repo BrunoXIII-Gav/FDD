@@ -37,6 +37,27 @@ Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a 
 
 ## 2.CONTEXTO COMERCIAL
 
+## EQUIPOS Y DISPOSITIVOS EXISTENTES EN EL MERCADO
+
+### ** - Medidor de calidad de aire dióxido de carbono, monóxido, oxígeno, humedad y temperatura AQ-9901SD **
+
+
+### ** - Medidor ambiental Digi-Sense; Medidor de velocidad, humedad, temperatura y luz del viento **
+
+El medidor ambiental Digi-Sense proporciona una funcionalidad versátil al medir velocidad del viento, humedad, temperatura y luz, todo en un solo dispositivo. Con la capacidad de cambiar entre grados Fahrenheit y Celsius, así como la lectura de valores mínimos y máximos en cualquier intervalo de tiempo, ofrece una experiencia de usuario conveniente. Su diseño compacto integra un anemómetro, higrómetro, fotómetro y termómetro, con la opción de utilizar sondas externas para mediciones internas y externas, compatible con termopares tipo K. Con lecturas precisas en varias unidades para el anemómetro y una amplia gama de humedad relativa para el higrómetro, junto con la capacidad de medir la intensidad de luz en lux o velas de pie con el fotómetro, este dispositivo es una herramienta completa para diversas aplicaciones. La función HOLD permite congelar lecturas y visualizar valores mínimos y máximos en cualquier modo de medición, facilitando aún más su uso.
+
+
+
+
+
+### ** - Analizador para metales pesados PMMS-5000**
+
+El PMMS-5000 incorpora tecnología avanzada de pruebas no destructivas XRF y un sistema automatizado de enriquecimiento atmosférico para una precisa medición de metales pesados como plomo, mercurio, cadmio, cromo, y arsénico, entre otros, conforme al estándar US EPA IO - 3.3. Destacando su versatilidad, se emplea extensamente en la supervisión de la calidad del aire en zonas industriales, residenciales y urbanas. Sus características sobresalientes incluyen la capacidad de detectar hasta 28 tipos de metales pesados con una alta sensibilidad (límite de detección en ng/m3), calibración anticipada, ajuste automático de cero, y diagnóstico automático de fallos para minimizar los requerimientos de mantenimiento. Además, ofrece la opción de incorporar una cortadora TSP, PM10, o PM2.5. Utiliza una fuente de rayos X de baja energía y dispone de múltiples puertos de entrada/salida como RS232/485, USB, GPRS, y Ethernet. Sus aplicaciones principales abarcan el monitoreo y análisis de la calidad del aire, el estudio de partículas atmosféricas, análisis de historial ambiental, evaluación de impacto ambiental, identificación de fuentes de contaminación, y pronóstico de alertas de contaminación.
+
+
+
+
+## PATENTES
 ### - **Patente N°1:**
 
 Red de sensores para monitoreo de la calidad del aire ambiente 
