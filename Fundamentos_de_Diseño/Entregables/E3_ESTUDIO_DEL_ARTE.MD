@@ -136,3 +136,7 @@ Desarrollaremos un dispositivo donde usaremos sensores de aire que puedan medir 
 
 1. https://www.sciencedirect.com/science/article/pii/S1574954124001109?pes=vor#s0110
 2. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2313-29572022000300199
+
+## Link de diapositivas:
+
+https://www.canva.com/design/DAGCtygXPmI/II1_3RQjQgv8oEYDhniFMQ/edit
