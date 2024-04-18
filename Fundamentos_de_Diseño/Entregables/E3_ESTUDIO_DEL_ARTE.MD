@@ -140,6 +140,10 @@ Desarrollaremos un dispositivo donde usaremos sensores de aire que puedan medir 
 4. WIPO - search international and national patent collections. (2023), SENSOR NETWORK FOR AMBIENT AIR QUALITY MONITORING. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023042222&_cid=P12-LV1F2L-16452-1
 5. Mr. Bhaskar Vijay Ajgaonkar (2021). SMART AIR MONITOR FOR DETECTING POLLUTANTS EMITTED FROM VEHICLES USING INTERNET OF THINGS (IOT). India: Office of the Controller General of Patents, Designs and Trade Marks. https://n9.cl/njb9ur
 6. A. L., Vallikannu, Muthu, T. Sudalai, Rani V., Kanpur (2021). AIR POLLUTION MONITORING SYSTEM USING INTERNET OF VEHICLES AND POLLUTION SENSORS. Australia: IP Australia. https://n9.cl/3oi1d
+7. Medidor ambiental Digi-Sense; Medidor de velocidad, humedad, temperatura y luz del viento. Omega Perú S.A. https://omegaperu.com.pe/producto/medidor-ambiental-digi-sense-medidor-de-velocidad-humedad-temperatura-y-luz-del-viento/
+8. Medidor de calidad de aire dióxido de carbono, monóxido, oxígeno, humedad y temperatura AQ-9901SD – Valiometro. Valiometro.pe. https://www.valiometro.pe/medidor-de-calidad-de-aire-dioxido-de-carbono-monoxido-oxigeno-humedad-y-temperatura-aq-9901sd/
+9. PMMS-5000 - Analizador para metales pesados by Hangzhou Zetian Technology CO., Ltd. Directindustry.es. https://www.directindustry.es/prod/hangzhou-zetian-technology-co-ltd/product-189658-1866530.html
+
 ## Link de diapositivas:
 
 https://www.canva.com/design/DAGCtygXPmI/II1_3RQjQgv8oEYDhniFMQ/edit
