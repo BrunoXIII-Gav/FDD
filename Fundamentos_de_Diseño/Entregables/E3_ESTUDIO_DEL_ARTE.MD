@@ -136,6 +136,8 @@ Desarrollaremos un dispositivo donde usaremos sensores de aire que puedan medir 
 
 1. https://www.sciencedirect.com/science/article/pii/S1574954124001109?pes=vor#s0110
 2. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2313-29572022000300199
+3. Ali, S., Glass, T., Parr, B., Potgieter, J., & Alam, F. (2021). Low cost sensor with IoT LoRaWAN connectivity and machine learning-based calibration for air pollution monitoring. IEEE transactions on instrumentation and measurement, 70, 1–11. https://doi.org/10.1109/tim.2020.3034109
+4. WIPO - search international and national patent collections. (2023), SENSOR NETWORK FOR AMBIENT AIR QUALITY MONITORING. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023042222&_cid=P12-LV1F2L-16452-1
 
 ## Link de diapositivas:
 
