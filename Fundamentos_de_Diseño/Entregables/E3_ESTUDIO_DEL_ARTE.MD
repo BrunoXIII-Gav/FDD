@@ -46,10 +46,34 @@ También se utiliza técnicas de aprendizaje automático como la Regresión de M
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Regresion_lineal_multiple_formula.png)
 
+En la ecuación mostrada:
+
+β0: Término de intercepción o constante.
+βi: Coeficientes de los predictores.
+Xi: Variables predictoras o independientes.
+Y: Variable dependiente o resultado.
+
+
 Adicionalmente, se implementan Redes Neuronales Artificiales (ANN), específicamente el Perceptrón Multicapa (MLP), que utiliza las respuestas del sensor y datos ambientales como entradas, y los datos de referencia como salida. 
 Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a las variaciones ambientales y a las características específicas de los contaminantes, lo que resulta en mediciones más precisas.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Imagen_redes_neuronales_artificiales_fomula.png)
+
+
+En las segundas ecuaciones mostradas:
+Primera ecuación (capa oculta):
+wij: Peso de la conexión entre la entrada i y la neurona j en la capa oculta.
+Xi: Entrada i.
+bj^H: Sesgo de la neurona j en la capa oculta.
+ϕH: Función de activación de la capa oculta.
+Oj: Salida de la neurona j en la capa oculta.
+
+Segunda ecuación (capa de salida):
+wj: Peso de la conexión entre la neurona j de la capa oculta y la neurona de salida.
+Oj: Salida de la neurona j en la capa oculta.
+b^O: Sesgo de la neurona en la capa de salida.
+ϕO: Función de activación de la capa de salida.
+Y: Salida final de la red neuronal.
 
 
 ## 2.CONTEXTO COMERCIAL
