@@ -61,19 +61,22 @@ Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a 
 
 
 En las segundas ecuaciones mostradas:
+
 Primera ecuación (capa oculta):
-wij: Peso de la conexión entre la entrada i y la neurona j en la capa oculta.
-Xi: Entrada i.
-bj^H: Sesgo de la neurona j en la capa oculta.
-ϕH: Función de activación de la capa oculta.
-Oj: Salida de la neurona j en la capa oculta.
+
+1. wij: Peso de la conexión entre la entrada i y la neurona j en la capa oculta.
+2. Xi: Entrada i.
+3. bj^H: Sesgo de la neurona j en la capa oculta.
+4. ϕH: Función de activación de la capa oculta.
+5. Oj: Salida de la neurona j en la capa oculta.
 
 Segunda ecuación (capa de salida):
-wj: Peso de la conexión entre la neurona j de la capa oculta y la neurona de salida.
-Oj: Salida de la neurona j en la capa oculta.
-b^O: Sesgo de la neurona en la capa de salida.
-ϕO: Función de activación de la capa de salida.
-Y: Salida final de la red neuronal.
+
+1. wj: Peso de la conexión entre la neurona j de la capa oculta y la neurona de salida.
+2. Oj: Salida de la neurona j en la capa oculta.
+3. b^O: Sesgo de la neurona en la capa de salida.
+4. ϕO: Función de activación de la capa de salida.
+5. Y: Salida final de la red neuronal.
 
 
 ## 2.CONTEXTO COMERCIAL
