@@ -55,7 +55,7 @@ En la ecuación mostrada:
 
 
 Adicionalmente, se implementan Redes Neuronales Artificiales (ANN), específicamente el Perceptrón Multicapa (MLP), que utiliza las respuestas del sensor y datos ambientales como entradas, y los datos de referencia como salida. 
-Estas técnicas son cruciales, ya que permite ajustar y calibrar los sensores a las variaciones ambientales y a las características específicas de los contaminantes, lo que resulta en mediciones más precisas.
+Estas técnicas permiten ajustar y calibrar los sensores a las variaciones ambientales y a las características específicas de los contaminantes, lo que resulta en mediciones más precisas.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Imagen_redes_neuronales_artificiales_fomula.png)
 
