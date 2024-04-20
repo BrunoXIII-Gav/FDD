@@ -48,10 +48,10 @@ También se utiliza técnicas de aprendizaje automático como la Regresión de M
 
 En la ecuación mostrada:
 
-β0: Término de intercepción o constante.
-βi: Coeficientes de los predictores.
-Xi: Variables predictoras o independientes.
-Y: Variable dependiente o resultado.
+1. β0: Término de intercepción o constante.
+2. βi: Coeficientes de los predictores.
+3. Xi: Variables predictoras o independientes.
+4. Y: Variable dependiente o resultado.
 
 
 Adicionalmente, se implementan Redes Neuronales Artificiales (ANN), específicamente el Perceptrón Multicapa (MLP), que utiliza las respuestas del sensor y datos ambientales como entradas, y los datos de referencia como salida. 
