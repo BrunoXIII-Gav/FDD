@@ -4,19 +4,12 @@
 
 ### - Artículo 1:
 
-### HypeAIR: A novel framework for real-time low-cost sensor calibration for air quality monitoring in smart cities
+### On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/intro%20articulo1.png)
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/1_art%C3%ADculo_imagen_portada.png.png)
-
-Este artículo describe el desarrollo de HypeAIR, un marco innovador de código abierto que simplifica y automatiza la calibración de sensores de calidad del aire de bajo costo (LCAQ). Se basa en la co-ubicación, lo que significa que coloca varios sensores en la misma ubicación para comparar y ajustar mediciones automáticamente. Así mismo, es adaptable a diferentes sensores y contaminantes, lo que permite un monitoreo hiperlocal en tiempo real.
-HypeAIR integra dos metodologías de calibración: la primera se basa en una combinación de algoritmos de aprendizaje automático VR y SVR (Voting Regressor y Support Vector Regression), que tienen en cuenta la dependencia temporal de las observaciones, mientras que la segunda se basa en el algoritmo de aprendizaje profundo Long Short-Term Memory (LSTM), diseñado para ser flexible y personalizable, lo que permite la incorporación de nuevas metodologías.
+El artículo presenta un sistema de monitoreo ambiental de bajo costo, fundamentado en redes de sensores inalámbricos (WSN), desarrollado bajo el concepto de Internet de las cosas (IoT). Se creó una aplicación web para visualizar en tiempo real los datos recolectados por los sensores, así como mediciones históricas. La estructura propuesta evita la pérdida de datos en ausencia de conexión a Internet, almacenándolos localmente en nodos de procesamiento. Este sistema es escalable, permitiendo aumentar el número de sensores para monitorear áreas más extensas. Se emplearon sensores analógicos y digitales de bajo costo junto con nodos de hardware basados en Arduino para medir gases nocivos y partículas de polvo. Las pruebas iniciales confirmaron el funcionamiento adecuado del sistema y la precisión de los sensores utilizados. Se realizaron mediciones ambientales en un campus universitario en Cumbaya, tanto dentro como fuera de un estacionamiento subterráneo, demostrando que los valores de los gases estaban dentro del rango detectable por los sensores económicos. Aunque estos sensores tienen limitaciones en su alcance, aún pueden detectar situaciones anómalas cuando las concentraciones de gas exceden ciertos límites. Para futuras investigaciones, se planea aumentar el número de nodos, emplear sensores más precisos y explorar la integración con sistemas de análisis de big data utilizando dispositivos Odroid. 
 
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Fig.%201.%20Dos%20dispositivos%20LCAQ.png)
-
-
-
-**Dos dispositivos LCAQ usados, a la izquierda, los sensores están colocados en el interior el dispositivo y a la derecha, están conectados externamente**
 
 ### - Artículo 2:
 
