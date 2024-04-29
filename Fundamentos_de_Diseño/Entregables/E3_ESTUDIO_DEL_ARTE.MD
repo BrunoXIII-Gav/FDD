@@ -7,7 +7,7 @@
 ### On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/intro%20articulo1.png)
 
-                                     **Figura 1: Portada del artículo 1** 
+**Figura 1: Portada del artículo 1** 
 
 El artículo presenta un sistema de monitoreo ambiental de bajo costo, fundamentado en redes de sensores inalámbricos (WSN), desarrollado bajo el concepto de Internet de las cosas (IoT). Se creó una aplicación web para visualizar en tiempo real los datos recolectados por los sensores, así como mediciones históricas. La estructura propuesta evita la pérdida de datos en ausencia de conexión a Internet, almacenándolos localmente en nodos de procesamiento. Este sistema fue escalable, permitiendoles aumentar el número de sensores para monitorear áreas más extensas. Se emplearon sensores analógicos y digitales de bajo costo junto con nodos de hardware basados en Arduino para medir gases nocivos y partículas de polvo. Las pruebas iniciales confirmaron el funcionamiento adecuado del sistema y la precisión de los sensores utilizados. Se realizaron mediciones ambientales en un campus universitario en Cumbaya, tanto dentro como fuera de un estacionamiento subterráneo, demostrando que los valores de los gases estaban dentro del rango detectable por los sensores económicos. Aunque estos sensores tuvieron limitaciones en su alcance, aún se pudo detectar situaciones anómalas cuando las concentraciones de gas excedieron ciertos límites. 
 
@@ -17,7 +17,7 @@ El artículo presenta un sistema de monitoreo ambiental de bajo costo, fundament
 ### Sensores de bajo costo en la caracterización de partículas finas (PM2.5) de una ciudad altoandina( Low-cost sensors for fine particulate matter (PM2.5) characterization in a high Andean city ) 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/2_art%C3%ADculo_imagen_portada.png.png)
 
-                                     **Figura 2: Portada del artículo 2** 
+**Figura 2: Portada del artículo 2** 
 
 
 El artículo describe un estudio realizado en Huancayo , que enfrenta problemas de contaminación atmosférica, particularmente con material particulado fino (PM2.5). Debido a los altos costos de infraestructura y equipos de monitoreo convencionales, se emplearon sensores de bajo costo para evaluar la variación temporal y las fuentes de PM2.5 en tres sitios de la ciudad. . Se emplearon sensores PurpleAir PA-II modelo PMS5003 desde agosto de 2018 hasta junio de 2019. Los datos recopilados se analizaron estadísticamente para examinar cambios temporales y se utilizaron retrotrayectorias a través del modelo HYSPLIT para identificar las fuentes de emisión. Las mediciones se realizaron en tiempo real durante campañas simultáneas en los tres sitios, utilizando sensores Plantower modelo PMS5003 de PurpleAir, con una frecuencia de registro de datos por minuto. Estos sensores utilizan rayos láser que inciden sobre las partículas de diferentes tamaños que entran en el dispositivo. La luz reflejada por estas partículas es detectada por diodos receptores. Posteriormente, las señales recibidas son sometidas a filtrado y amplificación a través de filtros y circuitos electrónicos. Finalmente, mediante algoritmos complejos, estas señales son convertidas en concentraciones de PM2.5, proporcionando así mediciones precisas de la contaminación atmosférica (Zheng et al., 2018).
@@ -35,7 +35,9 @@ El artículo describe un estudio realizado en Huancayo , que enfrenta problemas 
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/3_articulo_imagen_portada.png)
 
-                                       **Figura 3: Portada del artículo 3** 
+
+
+**Figura 3: Portada del artículo 3** 
 
 El artículo se centra en el desarrollo y poder implementar un sensor de bajo costo para monitorear o controlar la contaminación del aire. Este sensor se caracteriza por su capacidad para conectarse a Internet de las Cosas (IoT) mediante la tecnología LoRaWAN, una red de área extensa de baja potencia, lo que facilita la recopilación y transmisión de datos durante el monitoreo del estado del aire de manera eficiente y económica. Este nodo sensor usa sensores electroquímicos para así poder lograr medir concentraciones de monóxido de carbono (CO) y dióxido de nitrógeno (NO2) y un sensor infrarrojo para medir niveles de partículas (PM).
 
@@ -47,7 +49,8 @@ También se utiliza técnicas de aprendizaje automático como la Regresión de M
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Regresion_lineal_multiple_formula.png)
 
-                                  **Figura 4: Fórmula de Regresión Lineal Múltiple (MLR)** 
+
+**Figura 4: Fórmula de Regresión Lineal Múltiple (MLR)** 
 
 
 En la ecuación mostrada:
