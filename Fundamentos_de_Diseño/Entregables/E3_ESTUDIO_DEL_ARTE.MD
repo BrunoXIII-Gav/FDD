@@ -7,6 +7,8 @@
 ### On the Use of Low Cost Sensors for the Implementation of a Real-Time Air Pollution Monitoring System Using Wireless Sensor Networks
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/intro%20articulo1.png)
 
+                                        ** Imágen 1. Portada del artículo 1 **
+
 El artículo presenta un sistema de monitoreo ambiental de bajo costo, fundamentado en redes de sensores inalámbricos (WSN), desarrollado bajo el concepto de Internet de las cosas (IoT). Se creó una aplicación web para visualizar en tiempo real los datos recolectados por los sensores, así como mediciones históricas. La estructura propuesta evita la pérdida de datos en ausencia de conexión a Internet, almacenándolos localmente en nodos de procesamiento. Este sistema fue escalable, permitiendoles aumentar el número de sensores para monitorear áreas más extensas. Se emplearon sensores analógicos y digitales de bajo costo junto con nodos de hardware basados en Arduino para medir gases nocivos y partículas de polvo. Las pruebas iniciales confirmaron el funcionamiento adecuado del sistema y la precisión de los sensores utilizados. Se realizaron mediciones ambientales en un campus universitario en Cumbaya, tanto dentro como fuera de un estacionamiento subterráneo, demostrando que los valores de los gases estaban dentro del rango detectable por los sensores económicos. Aunque estos sensores tuvieron limitaciones en su alcance, aún se pudo detectar situaciones anómalas cuando las concentraciones de gas excedieron ciertos límites. 
 
 
