@@ -172,7 +172,7 @@ El sistema de monitoreo de contaminación del aire utilizando Internet de Vehíc
 
 ## 5.DEFINICIÓN DE SOLUCIÓN A IMPLEMENTAR
 
-Desarrollaremos un dispositivo donde usaremos sensores de aire que puedan medir partículas contaminantes. Los datos recopilados estarán disponibles en tiempo real a través de una interfaz móvil.  Además, el dispositivo emitirá alertas en caso de exceso de contaminación, ya sea debido a actividades mineras excesivas o a incidentes en la carretera central.  Este producto está dirigido para los habitantes y el gobierno local de Chicla, con el objetivo de proporcionar información sobre la calidad del aire y permitir la implementación de medidas ambientales para abordar cualquier problema que pueda afectar la salud de la población.
+Desarrollaremos un dispositivo donde usaremos sensores de aire y sonoras que midan los contaminantes en el ambiente. Los datos recopilados estarán disponibles en tiempo real a través de una interfaz móvil. Además, el dispositivo emitirá alertas en caso de exceso de contaminación tanto del aire y del ruido. Este producto está dirigido para los habitantes y el gobierno local de Chicla, con el objetivo de proporcionar información sobre la calidad del aire y permitir la implementación de medidas ambientales para abordar cualquier problema que pueda afectar la salud de la población.
 
 ## 6.BIBLIOGRAFÍA
 
