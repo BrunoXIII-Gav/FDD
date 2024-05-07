@@ -11,7 +11,7 @@ Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fue
 
 
 ## Contaminación sonora;
-Es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano. Según la OMS, ruidos mayores a 65 decibeles(db) genera impactos cardiovasculares y metabólicos, efectos sobre el sueño, deterioro cognitivo y de la audición, tinnitus o acúfenos (percepción de ruidos o zumbidos en el oído), problemas en los nacimientos y en general en la calidad de vida, la salud mental y el bienestar. Según la Comisión Europea (CE), provoca al menos 10.000 muertes prematuras anuales en la Unión Europea (UE).
+Es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano. Según la OMS, ruidos mayores a 65 decibeles(dB) genera impactos cardiovasculares y metabólicos, efectos sobre el sueño, deterioro cognitivo y de la audición, tinnitus o acúfenos (percepción de ruidos o zumbidos en el oído), problemas en los nacimientos y en general en la calidad de vida, la salud mental y el bienestar. Según la Comisión Europea (CE), provoca al menos 10.000 muertes prematuras anuales en la Unión Europea (UE).
 Los más afectados son los más jóvenes, los ancianos y en especial las comunidades vulnerables cerca de carreteras o zonas industriales. 
 
 ![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/da0b6f09d461a6164046cc855516225e8aa5eba4/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Las%20ciudades%20m%C3%A1s%20ruidosas%20del%20mundo.png)
@@ -26,8 +26,12 @@ Es uno de los principales riesgos ambientales para la salud en América, alreded
 Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
 
 ## Contaminación sonora;
-**En Chile;** la normativa legal establece niveles máximos de emisión de ruido de 55 decibeles durante el día, en la noche para zonas habitacionales de 45 decibeles y finalmente hasta 70 decibeles si se trata de zonas industriales. Así mimso, según un informe del Ministerio del Medio Ambiente (MMA)- 2021, señalan el tránsito vehiculal el principal responsable de más de 70% de la contaminación acústica en el país. 
+## En Chile;
+La normativa legal establece niveles máximos de emisión de ruido de 55 dB durante el día, en la noche para zonas habitacionales de 45 dB y finalmente hasta 70 dB si se trata de zonas industriales. Así mismo, según un informe del Ministerio del Medio Ambiente (MMA)- 2021, señalan el tránsito vehiculal el principal responsable de más de 70% de la contaminación acústica en el país. 
 
+![image]((https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/641acabaaca46f50b27dedec20930c036f15c888/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20db%20en%20chile.jpg)
+
+Mapa de ruido del Gran Santiago Urbano–Horario nocturno. Fuente: Extraído de MMA Chile
 
 
 ## -Nivel Nacional:
