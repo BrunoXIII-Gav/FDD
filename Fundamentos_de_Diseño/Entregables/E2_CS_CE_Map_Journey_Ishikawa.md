@@ -2,16 +2,20 @@
 
 ## -Nivel Mundial: 
 
-**La contaminación atmosférica;** es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire superan los límites establecidos. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
+## La contaminación atmosférica;
+Es uno de los mayores riesgos ambientales que existen para la salud. Según la  Organización Mundial de la Salud(OMS), El 99% de la población mundial vive en lugares donde los niveles de calidad del aire superan los límites establecidos. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20contaminacion%20aire%202019.jpg)
 
 Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fuente: AFP(Agence France-Presse
 
 
-**La contaminación sonora**
-![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/da0b6f09d461a6164046cc855516225e8aa5eba4/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Las%20ciudades%20m%C3%A1s%20ruidosas%20del%20mundo.png)
+## La contaminación sonora;
+La contaminación sonora es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano. Según la OMS, el ruido genera impactos cardiovasculares y metabólicos, efectos sobre el sueño, deterioro cognitivo y de la audición, tinnitus o acúfenos (percepción de ruidos o zumbidos en el oído), problemas en los nacimientos y en general en la calidad de vida, la salud mental y el bienestar. Según la Comisión Europea (CE), provoca al menos 10.000 muertes prematuras anuales en la Unión Europea (UE).
+Los más afectados son los más jóvenes, los ancianos y en especial las comunidades vulnerables cerca de carreteras o zonas industriales. 
 
+![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/da0b6f09d461a6164046cc855516225e8aa5eba4/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Las%20ciudades%20m%C3%A1s%20ruidosas%20del%20mundo.png)
+Las ciudades más ruidosas del mundo. Fuente: Frontiers 2022; Organización de las Naciones Unidas (ONU)
 
 
 ## -Nivel Regional:
