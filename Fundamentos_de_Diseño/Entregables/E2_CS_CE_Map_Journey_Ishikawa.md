@@ -80,7 +80,7 @@ El impacto económico de la contaminación del aire en la región de Huarochirí
 
 # Diagrama de Ishikawa
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Diagrama%20de%20Ishikawa1.png)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Diagrama_ishikawa_thelast.png)
 
 # MAPA DE EMPATÍA
 
