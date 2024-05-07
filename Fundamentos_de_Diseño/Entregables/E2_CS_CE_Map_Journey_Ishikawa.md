@@ -29,6 +29,8 @@ Clasificación de países con peor calidad de aire en América Latina. Foto: Gre
 ## En Chile;
 La normativa legal establece niveles máximos de emisión de ruido de 55 dB durante el día, en la noche para zonas habitacionales de 45 dB y finalmente hasta 70 dB si se trata de zonas industriales. Así mismo, según un informe del Ministerio del Medio Ambiente (MMA)- 2021, señalan el tránsito vehiculal el principal responsable de más de 70% de la contaminación acústica en el país. 
 
+A continuación, se muestra el mapa de ruido de Santiago de Chile. De este, concluye que un 17,35% de la ciudad se encuentra por encima de los 65 dB(A). Por otro lado, en horario nocturno los valores bajan y en general el ruido es de 55 dB(A) en promedio.
+
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20db%20en%20chile.jpg)
 
 Mapa de ruido del Gran Santiago Urbano–Horario nocturno. Fuente: Extraído de MMA Chile
