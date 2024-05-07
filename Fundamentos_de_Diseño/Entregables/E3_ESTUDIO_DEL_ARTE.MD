@@ -85,6 +85,10 @@ Segunda ecuación (capa de salida):
 4. ϕO: Función de activación de la capa de salida.
 5. Y: Salida final de la red neuronal.
 
+### - Artículo 4: 
+###Evaluación del ruido ambiental utilizando telefonos inteligentes
+
+
 
 ## 2.CONTEXTO COMERCIAL
 
