@@ -41,7 +41,8 @@ Basandonos en un informe “Fronteras 2022” de la ONU, señaló que Bogotá ex
 Los principales causante de la contaminación auditiva los constituyen el tráfico vehicular y aéreo ya que están por encima de los límites establecidos por la OMS.
 
 
-
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20de%20db%20-%20colombia.png)
+Mapa America Latina, Fuente: Fronteras 2022
 
 ## -Nivel Nacional:
 En Sudamérica, Perú es el país con la peor calidad del aire y, a la vez, la segunda nación con más muertes prematuras atribuibles a la polución. El distrito de San Juan de Lurigancho reportó niveles alarmantes de contaminación, alcanzando hasta 41.2 μg/m3.
