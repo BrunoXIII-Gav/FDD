@@ -26,6 +26,7 @@ Es uno de los principales riesgos ambientales para la salud en América, alreded
 Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
 
 ## Contaminación sonora;
+**En Chile;** la normativa legal establece niveles máximos de emisión de ruido de 55 decibeles durante el día, en la noche para zonas habitacionales de 45 decibeles y finalmente hasta 70 decibeles si se trata de zonas industriales. Así mimso, según un informe del Ministerio del Medio Ambiente (MMA)- 2021, señalan el tránsito vehiculal el principal responsable de más de 70% de la contaminación acústica en el país. 
 
 
 
