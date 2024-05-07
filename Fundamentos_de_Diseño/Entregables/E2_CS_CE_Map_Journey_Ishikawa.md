@@ -11,7 +11,7 @@ Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fue
 
 
 ## La contaminación sonora;
-La contaminación sonora es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano. Según la OMS, el ruido genera impactos cardiovasculares y metabólicos, efectos sobre el sueño, deterioro cognitivo y de la audición, tinnitus o acúfenos (percepción de ruidos o zumbidos en el oído), problemas en los nacimientos y en general en la calidad de vida, la salud mental y el bienestar. Según la Comisión Europea (CE), provoca al menos 10.000 muertes prematuras anuales en la Unión Europea (UE).
+Es la presencia en el ambiente de niveles de ruido que implique molestia, genere riesgos, perjudique o afecte la salud y al bienestar humano. Según la OMS, el ruido genera impactos cardiovasculares y metabólicos, efectos sobre el sueño, deterioro cognitivo y de la audición, tinnitus o acúfenos (percepción de ruidos o zumbidos en el oído), problemas en los nacimientos y en general en la calidad de vida, la salud mental y el bienestar. Según la Comisión Europea (CE), provoca al menos 10.000 muertes prematuras anuales en la Unión Europea (UE).
 Los más afectados son los más jóvenes, los ancianos y en especial las comunidades vulnerables cerca de carreteras o zonas industriales. 
 
 ![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/da0b6f09d461a6164046cc855516225e8aa5eba4/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Las%20ciudades%20m%C3%A1s%20ruidosas%20del%20mundo.png)
@@ -139,6 +139,8 @@ https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200
 14. Servicios Corporativos. FCCA. de https://www.ferrocarrilcentral.com.pe/servicios-corporativos/
 15. World Health Organization: WHO. (2019b, julio 30). Contaminación atmosférica. https://www.who.int/es/health-topics/air-pollution#tab=tab_1
 16. American, S. (2023). Quiet! Our Loud World Is Making Us Sick. Scientific American. https://www.scientificamerican.com/article/everyday-noises-can-hurt-hearts-not-just-ears-and-the-ability-to-learn/?utm_campaign=socialflow&utm_source=twitter&utm_medium=social
+    
+17. https://news.un.org/es/story/2022/02/1504212
 
 # Link de diapositivas:
 https://www.canva.com/design/DAGB42HYyN8/ltMkRWsGlisYDpjjlf_5Jw/edit?utm_content=DAGB42HYyN8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
