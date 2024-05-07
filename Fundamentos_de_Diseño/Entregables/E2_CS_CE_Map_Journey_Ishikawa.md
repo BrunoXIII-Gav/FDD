@@ -23,6 +23,8 @@ Las ciudades más ruidosas del mundo. Fuente: Frontiers 2022; Organización de l
 Es uno de los principales riesgos ambientales para la salud en América, alrededor de 6,7 millones de muertes prematuras se atribuyeron anualmente a los efectos de la contaminación del aire. Según el (Informe Mundial sobre la Calidad del Aire 2023) Perú y Chile se encuentran entre los países con el mayor nivel de contaminación del aire del mundo, estos dos países sudamericanos ocupan los puestos 38 y 43 del ranking global, respectivamente. La concentración de partículas ligeras, uno de los indicadores más usados para medir la polución del aire, alcanza un promedio de 23,5 microgramos por metro cúbico (μg/m3) en Perú y 22,2 en Chile.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/clasificaci%C3%B3n%20del%20aire%20-%20America.jpg)
+
+
 Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
 
 ## Contaminación sonora;
@@ -48,7 +50,8 @@ Parque automotor es el principal responsable de que la calidad del aire sea "pob
 En el Perú, la contaminación sonora es un problema grave que afecta a diversas zonas en todo el territorio. Por ejemplo, en 2015, la Organismo de Evaluación y Fiscalización Ambiental (OEFA) midió 224 puntos en Lima Metropolitana, de los cuales 10 se encuentran en estado crítico por sobrepasar de forma continua el límite de 80 dBA, alcanzando un rango entre 81.6 dBA y 84.9 dBA. 
 
 Cabe destacar que la principal fuente generadora de ruido que identificó el OEFA en la mayoría de los puntos de medición fue el tránsito vehicular (transporte público y privado, y uso de bocinas) que se presenta en horas punta.
-![image]()
+![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/f650343aab3724dbea747de60b5f1c52a2a8e806/Archivos_de_FDD/Imagenes/Imagenes_entregable2/86%2C3%20decibeles.png)
+
 Contaminación sonora en Lima y Callao - 2015, Fuente: OEFA
 
 
