@@ -89,6 +89,9 @@ Segunda ecuación (capa de salida):
 ### Evaluación del ruido ambiental utilizando telefonos inteligentes
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/portada%20art%C3%ADculo%204.png)
 
+
+**Figura 4: Portada del artículo 4** 
+
 Este artículo, se propone aprovechar los teléfonos inteligentes como unidades de detección de ruido ambiental. Se centra en el proceso de captura y procesamiento de sonido, evaluando la precisión de diferentes algoritmos de cálculo del ruido en comparación con dispositivos de medición profesionales. Los resultados experimentales indican que, con una calibración adecuada, es posible medir los niveles de ruido con precisión comparable a la de dispositivos profesionales en el rango de 35-95 dB, cubierto por los micrófonos incorporados en los teléfonos inteligentes.
 
 Los resultados experimentales muestran que la selección adecuada de la tasa de muestreo y el tamaño de búfer puede tener un impacto significativo en la exactitud de las estimaciones del nivel de ruido, con errores de estimación que varían entre 1% y 12% en el mejor de los casos. Sin embargo, se considera que errores entre 1-2 dB son aceptables para la mayoría de los escenarios de medición de ruido. Se planea validar los algoritmos propuestos en otros dispositivos y desarrollar una aplicación distribuida de crowdsensing para mediciones de ruido a mayor escala en el futuro.
