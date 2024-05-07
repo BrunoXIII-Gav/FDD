@@ -2,7 +2,7 @@
 
 ## -Nivel Mundial: 
 
-La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire no alcanzan los límites fijados. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
+La contaminación del aire es uno de los mayores riesgos ambientales que existen para la salud. Según la OMS, El 99% de la población mundial vive en lugares donde los niveles de calidad del aire superan los límites establecidos. Los contaminantes más preocupantes para la salud pública son las partículas en suspensión como el monóxido de carbono, el ozono, el dióxido de nitrógeno y el dióxido de azufre. La exposición a estos contaminantes  es una de las principales causas de morbimortalidad ya que aumenta significativamente el riesgo de accidentes cerebrovasculares, enfermedades cardíacas y pulmonares, cáncer y otras dolencias.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20contaminacion%20aire%202019.jpg)
 
