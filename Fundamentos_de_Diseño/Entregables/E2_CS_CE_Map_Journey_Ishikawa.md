@@ -50,7 +50,7 @@ Parque automotor es el principal responsable de que la calidad del aire sea "pob
 En el Perú, la contaminación sonora es un problema grave que afecta a diversas zonas en todo el territorio. Por ejemplo, en 2015, la Organismo de Evaluación y Fiscalización Ambiental (OEFA) midió 224 puntos en Lima Metropolitana, de los cuales 10 se encuentran en estado crítico por sobrepasar de forma continua el límite de 80 dBA, alcanzando un rango entre 81.6 dBA y 84.9 dBA. 
 
 Cabe destacar que la principal fuente generadora de ruido que identificó el OEFA en la mayoría de los puntos de medición fue el tránsito vehicular (transporte público y privado, y uso de bocinas) que se presenta en horas punta.
-![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/f650343aab3724dbea747de60b5f1c52a2a8e806/Archivos_de_FDD/Imagenes/Imagenes_entregable2/86%2C3%20decibeles.png)
+![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/31404f9af92c81401ed587699dca0581efdaf82e/Archivos_de_FDD/Imagenes/Imagenes_entregable2/contaminacion%20sonora%20lima.png)
 
 Contaminación sonora en Lima y Callao - 2015, Fuente: OEFA
 
