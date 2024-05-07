@@ -35,24 +35,15 @@ A continuación, se muestra el mapa de ruido de Santiago de Chile. De este, conc
 
 Mapa de ruido del Gran Santiago Urbano–Horario nocturno. Fuente: Extraído de MMA Chile
 
-### En Colombia: 
-Basandonos en un informe “Fronteras 2022” de la ONU, señaló que Bogotá excede los niveles de contaminación auditiva, lo cual es un riesgo para la salud de los bogotanos. La capital excede los rangos al oscilar entre los 70 a 83 decibeles en 24 horas.
-
-Los principales causante de la contaminación auditiva los constituyen el tráfico vehicular y aéreo ya que están por encima de los límites establecidos por la OMS.
-
-
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20de%20db%20-%20colombia.png)
-Mapa America Latina, Fuente: Fronteras 2022
-
 ## -Nivel Nacional:
+## Contaminación atmosférica;
 En Sudamérica, Perú es el país con la peor calidad del aire y, a la vez, la segunda nación con más muertes prematuras atribuibles a la polución. El distrito de San Juan de Lurigancho reportó niveles alarmantes de contaminación, alcanzando hasta 41.2 μg/m3.
-
 Por otro lado, En la ciudad de Arequipa, este 2023 se identificaron 145 µg/m3. Panorama similar ocurre con las ciudades de Ica (117,6 µg/m3), Trujillo (184,96 µg/m3), Ucayali (120,5 µg/m3).
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/contaminaci%C3%B3n%20del%20aire%2C%20lima%20metropolitana.png)
 Parque automotor es el principal responsable de que la calidad del aire sea "pobre" en Lima Metropolitana. Foto: Andina.
 
-
+## Contaminación sonora;
 
 
 # Contexto Económico
