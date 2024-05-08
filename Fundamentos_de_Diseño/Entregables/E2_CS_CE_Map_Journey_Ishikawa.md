@@ -57,16 +57,17 @@ Contaminación sonora en Lima y Callao - 2015, Fuente: OEFA
 
 # Contexto Económico
 
-## -Contexto económico del aire a nivel a mundial:
+## -NIVEL MUNDIAL
+## Contaminacion del aire
 
 La contaminación del aire es una problemática de mucha importancia a nivel mundial, ya que no solo afecta a la salud y al medio ambiente, sino también a la economía mundial. Según el informe del Banco mundial (2016), la contaminación atmosférica genero un costo aproximadamente de USD 225 mil millones en perdida de ingresos laborales en 2013, y no solo eso, también ocasiono pérdidas de 5.5 millones de vidas, todo esto provocó una reducción en el desarrollo humano. Los más afectados son los niños y las personas adultos mayores (Banco Mundial,2016).
 
+## Contaminacion sonora
+Según la Organización Mundial de la Salud (OMS), el ruido ambiental genera costos anuales de alrededor de 3.200 millones de euros en países de la Unión Europea (WHO, 2011).Un estudio de la Organización para la Cooperación y el Desarrollo Económicos (OCDE) estimó que los costos económicos asociados al ruido en Estados Unidos y la Unión Europea oscilan entre 0,2% y 2% del Producto Interno Bruto (PIB) (OECD, 2015).En 2014, la Comisión Europea informó que los costos asociados a la contaminación acústica en el transporte alcanzaron los 40 mil millones de euros, equivalente al 0,4% del PIB de la Unión Europea (European Commission, 2014).
 
 
-
-
-
-## -Contexto económico  del aire a nivel a regional: 
+## -NIVEL REGIONAL
+## Contaminacion del aire
 
 CHILE
 
@@ -87,11 +88,17 @@ Colombia, caracterizado por un buen desarrollo económico en actividades product
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/30eab3a6-16cf-4446-9247-2c04e4aaba8c)
 
+## Contaminacion sonora
+En México, se estima que los costos económicos de la contaminación sonora ascienden a 3.092 millones de dólares anuales, equivalente al 0,28% del PIB (Barron-Gingras et al., 2012).En Colombia, un estudio en Medellín reveló que los costos económicos asociados al ruido ambiental representaban alrededor del 0,4% del PIB de la ciudad (Zapata-Díaz et al., 2015).En Brasil, los costos de la contaminación sonora en São Paulo se estimaron en 1.400 millones de dólares anuales (Ortiz & Ragueneau, 2009).
 
 
-## -Contexto económico  del aire a nivel a nacional: 
+
+
+## -NIVEL NACIONAL: 
+## Contaminacion del aire
 
 Perú, un país diverso, en donde su economía se basa en sectores como la minería ,la agricultura ,el turismo y la pesca, según un estudio, Perú se encuentra en el primer lugar entre los países de América Latina con la peor calidad de aire, con niveles de concentración de contaminantes siete veces mayores que lo recomendado por la OMS (La República,2022).
+
 
 
 
@@ -105,6 +112,9 @@ La Figura 3 muestra el Reporte Mundial de Calidad de Aire 2021 para Latinoaméri
 -Huarochirí
 
 El impacto económico de la contaminación del aire en la región de Huarochirí, Lima, es un tema de preocupación,debido a que no tenemos muchos datos de esta zona . La contaminación afecta no solo la salud pública sino también la economía local, con costos asociados a la atención médica, la pérdida de productividad y el deterioro de los recursos naturales.
+
+## Contaminacion sonora
+Un estudio del Ministerio del Ambiente en 2012 estimó que los costos económicos de la contaminación sonora en Lima Metropolitana ascendían a 22,8 millones de dólares anuales, equivalente al 0,03% del PIB del Perú (MINAM, 2012).Según un informe del Organismo de Evaluación y Fiscalización Ambiental (OEFA), el 70% de las denuncias ambientales recibidas en 2018 estaban relacionadas con la contaminación sonora (OEFA, 2019).
 
 # Diagrama de Ishikawa
 
