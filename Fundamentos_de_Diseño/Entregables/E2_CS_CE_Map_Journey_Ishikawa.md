@@ -178,7 +178,7 @@ https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200
 24. Organization for Economic Co-operation and Development (OECD). (2015). The Economic Consequences of Outdoor Air Pollution.
 25. Ortiz, R., & Ragueneau, J. (2009). El ruido en la ciudad. Contaminantes ambientales y transferencia de masa. Editorial ACRIBIA S.A.
 World Health Organization (WHO). (2011). Burden of disease from environmental noise: Quantification of healthy life years lost in Europe.
-26.Zapata-Díaz, J. L., Delgado-Rendón, J. C., & Bernal-González, J. F. (2015). Costos de la contaminación por ruido en el Valle de Aburrá. Revista de Ingeniería, 41, 82-88. 
+26. Zapata-Díaz, J. L., Delgado-Rendón, J. C., & Bernal-González, J. F. (2015). Costos de la contaminación por ruido en el Valle de Aburrá. Revista de Ingeniería, 41, 82-88. 
 
 
 
