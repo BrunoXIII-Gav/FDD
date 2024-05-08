@@ -171,6 +171,14 @@ https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200
 17. Naciones Unidas. (2022, 15 de febrero). Las Naciones Unidas piden a las partes en conflicto que respeten la ley humanitaria mientras se intensifican los combates en Ucrania. Noticias ONU. https://news.un.org/es/story/2022/02/1504212
 18. Gamero Motta, H. G. (2020). Comparación de los niveles de ruido, normativa y gestión de ruido ambiental en Lima y Callao respecto a otras ciudades de Latinoamérica. Revista Kawsaypacha: Sociedad y Medio Ambiente, (5), 107-142. https://doi.org/10.18800/kawsaypacha.202001.004
 19. ONU Medio Ambiente. (2022). Fronteras 2022: ruido, llamas y desequilibrios. Recuperado de https://www.unep.org/es/resources/fronteras-2022-ruido-llamas-y-desequilibrios
+20. Barron-Gingras, G., Nájera-Ibarra, J., Medina-Mascida, J., & Torres-Rojo, J. (2012). Contaminación Acústica en la Ciudad de México. Voz y Lectura, 21(2), 40-44.
+21. European Commission. (2014). Commission staff working document: Noise abatement economic analysis.
+22. Ministerio del Ambiente (MINAM). (2012). Valoración Económica de la Degradación Ambiental en el Perú.
+23. Organismo de Evaluación y Fiscalización Ambiental (OEFA). (2019). Reporte Anual de Estadísticas Ambientales 2018.
+24. Organization for Economic Co-operation and Development (OECD). (2015). The Economic Consequences of Outdoor Air Pollution.
+25. Ortiz, R., & Ragueneau, J. (2009). El ruido en la ciudad. Contaminantes ambientales y transferencia de masa. Editorial ACRIBIA S.A.
+World Health Organization (WHO). (2011). Burden of disease from environmental noise: Quantification of healthy life years lost in Europe.
+26.Zapata-Díaz, J. L., Delgado-Rendón, J. C., & Bernal-González, J. F. (2015). Costos de la contaminación por ruido en el Valle de Aburrá. Revista de Ingeniería, 41, 82-88. 
 
 
 
