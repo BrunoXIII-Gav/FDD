@@ -126,7 +126,7 @@ Un estudio del Ministerio del Ambiente en 2012 estimó que los costos económico
 
 # CUSTOMER JOURNEY MAP
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/35273619-aea5-4855-84c1-adf9b05ebc64)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Journey%20map.png)
 
 # Problemática
 
