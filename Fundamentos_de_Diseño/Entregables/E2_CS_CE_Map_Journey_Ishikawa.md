@@ -122,7 +122,7 @@ Un estudio del Ministerio del Ambiente en 2012 estimó que los costos económico
 
 # MAPA DE EMPATÍA
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/128557506/89f3501e-8ead-4a31-8ac7-41675f2d4cc3)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/MAPA%20DE%20EMPATÍA1.png)
 
 # CUSTOMER JOURNEY MAP
 
