@@ -141,7 +141,7 @@ La patente WO2023042222 describe un sistema avanzado de monitoreo de la calidad 
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/imagen_de_patente1.PNG)
 
-En la imagen de la patente 1 observamos un mapa de cómo funciona en general, tenemos a los contaminante que serán recibidos por los sensores, donde las salidas analógicas del sensor son convertidas en salidas digitáles y luego pasan al microcontrolador donde se procesaran la información, para luego pasar al módulo GSM que servirá para transmitir los datos a la nube, a través de la nueva es donde se enviara la información hacia los móviles y páginas web para que se pueda visualizar la información.
+**Figura 12:** observamos un mapa de cómo funciona en general la patente 1, tenemos a los contaminante que serán recibidos por los sensores, donde las salidas analógicas del sensor son convertidas en salidas digitáles y luego pasan al microcontrolador donde se procesaran la información, para luego pasar al módulo GSM que servirá para transmitir los datos a la nube, a través de la nueva es donde se enviara la información hacia los móviles y páginas web para que se pueda visualizar la información.
 
 
 ## - **Patente N°2:** 
@@ -158,6 +158,8 @@ La presente invención describe un sistema o método para un monitor de aire int
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/PATENTE2.png)
 
+**Figura 13: Mapa del funcionamineto de la segunda patente** 
+
 ## - **Patente N°3:** 
 
 Sistema de vigilancia de la contaminación atmosférica mediante el internet de los vehículos y sensores de contaminación
@@ -172,13 +174,18 @@ El sistema de monitoreo de contaminación del aire utilizando Internet de Vehíc
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/PATENTE3.png)
 
+**Figura 14: Mapa del funcionamiento de la tercera patente** 
+
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/FUNCI.png)
 
+**Figura 15** 
 
 ## 4.LISTA DE REQUERIMIENTOS NO FUNCIONALES
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable4/REQUIRIEMIENTOS%20NO%20FUNCIONALES.png)
+
+**Figura 16** 
 
 ## 5.DEFINICIÓN DE SOLUCIÓN A IMPLEMENTAR
 
