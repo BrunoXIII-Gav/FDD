@@ -37,20 +37,20 @@ El artículo describe un estudio realizado en Huancayo , que enfrenta problemas 
 
 
 
-**Figura 3: Portada del artículo 3** 
+**Figura 4: Portada del artículo 3** 
 
 El artículo se centra en el desarrollo y poder implementar un sensor de bajo costo para monitorear o controlar la contaminación del aire. Este sensor se caracteriza por su capacidad para conectarse a Internet de las Cosas (IoT) mediante la tecnología LoRaWAN, una red de área extensa de baja potencia, lo que facilita la recopilación y transmisión de datos durante el monitoreo del estado del aire de manera eficiente y económica. Este nodo sensor usa sensores electroquímicos para así poder lograr medir concentraciones de monóxido de carbono (CO) y dióxido de nitrógeno (NO2) y un sensor infrarrojo para medir niveles de partículas (PM).
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/imagen2_articulo3.png)
-                                 
 
+**Figura 5: Funcionamineto del producto planteado**
 
 También se utiliza técnicas de aprendizaje automático como la Regresión de Mínimos Cuadrados Ordinarios (OLS) para ajustar los valores básicos del sensor, minimizando las diferencias entre las lecturas del sensor y los valores de referencia. Luego, tenemos a la Regresión Lineal Múltiple (MLR) que ajusta una combinación de mediciones de contaminantes, temperatura y humedad para alinearlas mejor con las concentraciones de referencia, corrigiendo la respuesta del sensor según las condiciones ambientales.
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Regresion_lineal_multiple_formula.png)
 
 
-**Figura 4: Fórmula de Regresión Lineal Múltiple (MLR)** 
+**Figura 6: Fórmula de Regresión Lineal Múltiple (MLR)** 
 
 
 En la ecuación mostrada:
@@ -66,6 +66,7 @@ Estas técnicas permiten ajustar y calibrar los sensores a las variaciones ambie
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/Imagen_redes_neuronales_artificiales_fomula.png)
 
+**Figura 7: Fórmula de las Redes Neuronales Artificiales (Perceptrón Multicapa)**
 
 En las segundas ecuaciones mostradas:
 
@@ -90,7 +91,7 @@ Segunda ecuación (capa de salida):
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/portada%20art%C3%ADculo%204.png)
 
 
-**Figura 4: Portada del artículo 4** 
+**Figura 8: Portada del artículo 4** 
 
 Este artículo, se propone aprovechar los teléfonos inteligentes como unidades de detección de ruido ambiental. Se centra en el proceso de captura y procesamiento de sonido, evaluando la precisión de diferentes algoritmos de cálculo del ruido en comparación con dispositivos de medición profesionales. Los resultados experimentales indican que, con una calibración adecuada, es posible medir los niveles de ruido con precisión comparable a la de dispositivos profesionales en el rango de 35-95 dB, cubierto por los micrófonos incorporados en los teléfonos inteligentes.
 
