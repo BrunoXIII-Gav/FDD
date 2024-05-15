@@ -193,16 +193,25 @@ Desarrollaremos un prototipo donde usaremos sensores de aire y sonoras que midan
 
 ## 6.BIBLIOGRAFÍA
 
-1. Bachechi, C., Rollo, F., & Po, L. (2024). HypeAIR: A novel framework for real-time low-cost sensor calibration for air quality monitoring in smart cities. Ecological Informatics, 81(102568), 102568. https://doi.org/10.1016/j.ecoinf.2024.102568
-2. Ulloa Ninahuamán, J., Alvarez-Tolentino, D. M., Peña Rojas, A., & Suarez-Salas, L. (2022). Sensores de bajo costo en la caracterización de partículas finas (PM2.5) de una ciudad altoandina. Revista de Investigaciones Altoandinas - Journal of High Andean Research, 24(3), 199–207. https://doi.org/10.18271/ria.2022.468
-3. Ali, S., Glass, T., Parr, B., Potgieter, J., & Alam, F. (2021). Low cost sensor with IoT LoRaWAN connectivity and machine learning-based calibration for air pollution monitoring. IEEE transactions on instrumentation and measurement, 70, 1–11. https://doi.org/10.1109/tim.2020.3034109
+1. Bachechi, C., Rollo, F., & Po, L. (2024). HypeAIR: A novel framework for real-time low-cost sensor calibration for air quality monitoring in smart cities. Ecological Informatics, 81(102568), 102568.
+
+2. Ulloa Ninahuamán, J., Alvarez-Tolentino, D. M., Peña Rojas, A., & Suarez-Salas, L. (2022). Sensores de bajo costo en la caracterización de partículas finas (PM2.5) de una ciudad altoandina. Revista de Investigaciones Altoandinas - Journal of High Andean Research, 24(3), 199–207.
+
+3. Ali, S., Glass, T., Parr, B., Potgieter, J., & Alam, F. (2021). Low cost sensor with IoT LoRaWAN connectivity and machine learning-based calibration for air pollution monitoring. IEEE transactions on instrumentation and measurement, 70, 1–11.
+
 4. WIPO - search international and national patent collections. (2023), SENSOR NETWORK FOR AMBIENT AIR QUALITY MONITORING. https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023042222&_cid=P12-LV1F2L-16452-1
+
 5. Mr. Bhaskar Vijay Ajgaonkar (2021). SMART AIR MONITOR FOR DETECTING POLLUTANTS EMITTED FROM VEHICLES USING INTERNET OF THINGS (IOT). India: Office of the Controller General of Patents, Designs and Trade Marks. https://n9.cl/njb9ur
+
 6. A. L., Vallikannu, Muthu, T. Sudalai, Rani V., Kanpur (2021). AIR POLLUTION MONITORING SYSTEM USING INTERNET OF VEHICLES AND POLLUTION SENSORS. Australia: IP Australia. https://n9.cl/3oi1d
-7. Medidor ambiental Digi-Sense; Medidor de velocidad, humedad, temperatura y luz del viento. Omega Perú S.A. https://omegaperu.com.pe/producto/medidor-ambiental-digi-sense-medidor-de-velocidad-humedad-temperatura-y-luz-del-viento/
-8. Medidor de calidad de aire dióxido de carbono, monóxido, oxígeno, humedad y temperatura AQ-9901SD – Valiometro. Valiometro.pe. https://www.valiometro.pe/medidor-de-calidad-de-aire-dioxido-de-carbono-monoxido-oxigeno-humedad-y-temperatura-aq-9901sd/
-9. PMMS-5000 - Analizador para metales pesados by Hangzhou Zetian Technology CO., Ltd. Directindustry.es. https://www.directindustry.es/prod/hangzhou-zetian-technology-co-ltd/product-189658-1866530.html
-10. Zamora, W., Tavares Calafate, C., & Cano, J.-C. (2017). Evaluación del ruido ambiental utilizando teléfonos inteligentes. En Actas de las Jornadas Sarteco 2017. Málaga, España. Disponible en: [https://www.researchgate.net/publication/371724807_Evaluacion_del_ruido_ambiental_utilizando_telefonos_inteligentes].
+
+7. Medidor ambiental Digi-Sense; Medidor de velocidad, humedad, temperatura y luz del viento. Omega Perú S.A.
+
+8. Medidor de calidad de aire dióxido de carbono, monóxido, oxígeno, humedad y temperatura AQ-9901SD – Valiometro. Valiometro.pe.
+
+9. PMMS-5000 - Analizador para metales pesados by Hangzhou Zetian Technology CO., Ltd. Directindustry.es.
+
+10. Zamora, W., Tavares Calafate, C., & Cano, J.-C. (2017). Evaluación del ruido ambiental utilizando teléfonos inteligentes. En Actas de las Jornadas Sarteco 2017. Málaga, España.
 
 
 ## Link de diapositivas:
