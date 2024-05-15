@@ -151,17 +151,25 @@ Figura 14: Trazo de la Carretera Central en la página oficial de Ministerios de
 
 # REFERENCIAS BIBLIOGRAFICAS
 1. Banco Mundial. (2016). La contaminación atmosférica le cuesta USD 225 mil millones a la economía mundial.
-https://www.bancomundial.org/es/news/press-release/2016/09/08/air-pollution-deaths-cost-global-economy-225-billion
+
 2. La República. (2022, 26 de marzo). Perú está en el puesto 1 de los 10 países de América Latina con la peor calidad de aire, según estudio de IQAir.
-https://larepublica.pe/sociedad/2022/03/26/peru-esta-en-el-puesto-1-de-los-10-paises-de-america-latina-con-la-peor-calidad-de-aire-segun-estudio-de-iqair
-3. Analisis Situacional de Salud - Red de Salud Huarochiri; (2023). Gob.pe. ANALISIS SITUACIONAL DE SALUD, de http://www.redhuarochiri.gob.pe/rhuarochiri/dis/asis
-4. DENUNCIAS AMBIENTALES DEL 2019 AL 2022 REGION LIMA. (2022). Gob.pe. de https://sinia.minam.gob.pe/documentos/denuncias-ambientales-2019-2022-region-lima
-5. Ministerio de Transportes y Comunicaciones (Fernando Alarcón,2016). Gob.pe. La importancia de la Carretera Central, de https://portal.mtc.gob.pe/transportes/terrestre/documentos/REPORTE%20SOBRE%20V%C3%8DA%20ALTERNA%20A%20LA%20CARRETERA%20CENTRAL%20v5%20-%20NEUTRO.pdf
-6. Spda, W. (2013, 15 noviembre). (Video) Vecinos de Huarochirí denuncian a fundidora por contaminación con plomo y otros metales. SPDA Actualidad Ambiental. https://www.actualidadambiental.pe/video-fundido
-7. Jaime, G. Z. E. (2019). Calidad de agua del Río Rímac sector Chicla, Provincia de  Huarochiri, departamento de Lima. https://repositorio.unfv.edu.pe/handle/20.500.13084/3607
-8. Minam busca evitar la contaminación por pasivos ambientales mineros en Huarochirí. (s. f.). Noticias | Diario Oficial el Peruano. https://elperuano.pe/noticia/143118-minam-busca-evitar-la-contaminacion-por-pasivos-ambientales-mineros-en-huarochiri
-9. El OEFA ordenó cubrir residuos sólidos y controlar la propagación de vectores en botadero de San Bartolomé en Huarochirí. (s. f.). Noticias - Organismo de Evaluación y Fiscalización Ambiental - Plataforma del Estado Peruano. https://www.gob.pe/institucion/oefa/noticias/700547-el-oefa-ordeno-cubrir-residuos-solidos-y-controlar-la-propagacion-de-vectores-en-botadero-de-san-bartolome-en-huarochiri
-10. Cooperaccion. (2021, 21 junio). Huarochirí: Policía reprimió protesta de comunidad contra contaminación de minera. Observatorio de Conflictos Mineros En el Perú. https://conflictosmineros.org.pe/2021/06/21/huarochiri-policia-reprimio-protesta-de-comunidad-contra-contaminacion-de-minera/
+
+3. Analisis Situacional de Salud - Red de Salud Huarochiri; (2023). Gob.pe. ANALISIS SITUACIONAL DE SALUD.
+
+4. DENUNCIAS AMBIENTALES DEL 2019 AL 2022 REGION LIMA. (2022). Gob.pe.
+
+5. Ministerio de Transportes y Comunicaciones (Fernando Alarcón,2016). Gob.pe. La importancia de la Carretera Central.
+
+6. Spda, W. (2013, 15 noviembre). (Video) Vecinos de Huarochirí denuncian a fundidora por contaminación con plomo y otros metales. SPDA Actualidad Ambiental.
+
+7. Jaime, G. Z. E. (2019). Calidad de agua del Río Rímac sector Chicla, Provincia de  Huarochiri, departamento de Lima.
+
+8. Minam busca evitar la contaminación por pasivos ambientales mineros en Huarochirí. (s. f.). Noticias | Diario Oficial el Peruano. 
+
+9. El OEFA ordenó cubrir residuos sólidos y controlar la propagación de vectores en botadero de San Bartolomé en Huarochirí. (s. f.). Noticias - Organismo de Evaluación y Fiscalización Ambiental - Plataforma del Estado Peruano.
+
+10. Cooperaccion. (2021, 21 junio). Huarochirí: Policía reprimió protesta de comunidad contra contaminación de minera. Observatorio de Conflictos Mineros En el Perú.
+
 11. Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. (2021). Crecimiento económico y calidad ambiental en América Latina y el Caribe. Economía, Sociedad y Territorio,
 https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200017
 
