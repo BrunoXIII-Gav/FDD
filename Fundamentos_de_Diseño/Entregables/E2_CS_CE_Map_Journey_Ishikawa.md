@@ -7,7 +7,7 @@ Es uno de los mayores riesgos ambientales que existen para la salud. Según la  
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20contaminacion%20aire%202019.jpg)
 
-Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fuente: AFP(Agence France-Presse
+Figura 1: Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fuente: AFP(Agence France-Presse
 
 
 ## Contaminación sonora;
@@ -15,7 +15,7 @@ Es la presencia en el ambiente de niveles de ruido que implique molestia, genere
 Los más afectados son los más jóvenes, los ancianos y en especial las comunidades vulnerables cerca de carreteras o zonas industriales. 
 
 ![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/da0b6f09d461a6164046cc855516225e8aa5eba4/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Las%20ciudades%20m%C3%A1s%20ruidosas%20del%20mundo.png)
-Las ciudades más ruidosas del mundo. Fuente: Frontiers 2022; Organización de las Naciones Unidas (ONU)
+Figura 2: Las ciudades más ruidosas del mundo. Fuente: Frontiers 2022; Organización de las Naciones Unidas (ONU)
 
 
 ## -Nivel Regional:
@@ -25,7 +25,7 @@ Es uno de los principales riesgos ambientales para la salud en América, alreded
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/clasificaci%C3%B3n%20del%20aire%20-%20America.jpg)
 
 
-Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
+Figura 3: Clasificación de países con peor calidad de aire en América Latina. Foto: Greenpeace
 
 ## Contaminación sonora;
 ### En Chile: 
@@ -35,7 +35,7 @@ A continuación, se muestra el mapa de ruido de Santiago de Chile. De este, conc
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20db%20en%20chile.jpg)
 
-Mapa de ruido del Gran Santiago Urbano–Horario nocturno. Fuente: Extraído de MMA Chile
+Figura 4: Mapa de ruido del Gran Santiago Urbano–Horario nocturno. Fuente: Extraído de MMA Chile
 
 ## -Nivel Nacional:
 ## Contaminación atmosférica;
@@ -43,7 +43,7 @@ En Sudamérica, Perú es el país con la peor calidad del aire y, a la vez, la s
 Por otro lado, En la ciudad de Arequipa, este 2023 se identificaron 145 µg/m3. Panorama similar ocurre con las ciudades de Ica (117,6 µg/m3), Trujillo (184,96 µg/m3), Ucayali (120,5 µg/m3).
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/contaminaci%C3%B3n%20del%20aire%2C%20lima%20metropolitana.png)
-Parque automotor es el principal responsable de que la calidad del aire sea "pobre" en Lima Metropolitana. Foto: Andina.
+Figura 5: Parque automotor es el principal responsable de que la calidad del aire sea "pobre" en Lima Metropolitana. Foto: Andina.
 
 ## Contaminación sonora;
 
@@ -52,7 +52,7 @@ En el Perú, la contaminación sonora es un problema grave que afecta a diversas
 Cabe destacar que la principal fuente generadora de ruido que identificó el OEFA en la mayoría de los puntos de medición fue el tránsito vehicular (transporte público y privado, y uso de bocinas) que se presenta en horas punta.
 ![image](https://raw.githubusercontent.com/BrunoXIII-Gav/FDD_1/31404f9af92c81401ed587699dca0581efdaf82e/Archivos_de_FDD/Imagenes/Imagenes_entregable2/contaminacion%20sonora%20lima.png)
 
-Contaminación sonora en Lima y Callao - 2015, Fuente: OEFA
+Figura 6: Contaminación sonora en Lima y Callao - 2015, Fuente: OEFA
 
 
 # Contexto Económico
