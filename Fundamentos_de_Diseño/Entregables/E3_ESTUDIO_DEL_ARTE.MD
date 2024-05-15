@@ -26,7 +26,7 @@ El artículo describe un estudio realizado en Huancayo , que enfrenta problemas 
 
 
 
-**Modelo PMS5003 de la plataforma colaborativa de PurpleAir (SCAQMD)** 
+**Figura 3: Modelo PMS5003 de la plataforma colaborativa de PurpleAir (SCAQMD)** 
 
 
 ### - Artículo 3:
