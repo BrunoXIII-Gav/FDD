@@ -7,7 +7,7 @@ Es uno de los mayores riesgos ambientales que existen para la salud. Según la  
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/mapa%20contaminacion%20aire%202019.jpg)
 
-Figura 1: Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fuente: AFP(Agence France-Presse
+Figura 1: Mapamundi mostrando la concentración de partículas finas PM2.5 en el aire, Fuente: AFP(Agence France-Presse)
 
 
 ## Contaminación sonora;
@@ -77,9 +77,9 @@ Chile tiene un producto geográfico bruto (PGB) de USD 923 mil millones, lo que 
 
 NOTA:La siguiente imagen muestra las emisiones residenciales de MP2.5 (partículas finas) por región en Chile para el año 2017 bajo el escenario BAU (Business as Usual), y las proyecciones para el año 2050 bajo dos escenarios
 
-  ![b2ab229c-37ae-4c9f-87d7-5d17bc7149cd](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/a88b3536-1b7e-49df-bad0-2073b7421e1b)
+![b2ab229c-37ae-4c9f-87d7-5d17bc7149cd](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/a88b3536-1b7e-49df-bad0-2073b7421e1b)
 
-  FUENTE:Centro de Ciencia del Clima y la Resiliencia(2020)
+FUENTE:Centro de Ciencia del Clima y la Resiliencia(2020)
 
 COLOMBIA
 
