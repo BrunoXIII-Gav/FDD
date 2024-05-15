@@ -79,7 +79,7 @@ NOTA:La siguiente imagen muestra las emisiones residenciales de MP2.5 (partícul
 
 ![b2ab229c-37ae-4c9f-87d7-5d17bc7149cd](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/a88b3536-1b7e-49df-bad0-2073b7421e1b)
 
-FUENTE:Centro de Ciencia del Clima y la Resiliencia(2020)
+Figura 7: Centro de Ciencia del Clima y la Resiliencia(2020)
 
 COLOMBIA
 
@@ -87,6 +87,8 @@ Colombia, caracterizado por un buen desarrollo económico en actividades product
 
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/30eab3a6-16cf-4446-9247-2c04e4aaba8c)
+
+Figura 8
 
 ## Contaminacion sonora
 En México, se estima que los costos económicos de la contaminación sonora ascienden a 3.092 millones de dólares anuales, equivalente al 0,28% del PIB (Barron-Gingras et al., 2012).En Colombia, un estudio en Medellín reveló que los costos económicos asociados al ruido ambiental representaban alrededor del 0,4% del PIB de la ciudad (Zapata-Díaz et al., 2015).En Brasil, los costos de la contaminación sonora en São Paulo se estimaron en 1.400 millones de dólares anuales (Ortiz & Ragueneau, 2009).
@@ -100,12 +102,9 @@ En México, se estima que los costos económicos de la contaminación sonora asc
 Perú, un país diverso, en donde su economía se basa en sectores como la minería ,la agricultura ,el turismo y la pesca, según un estudio, Perú se encuentra en el primer lugar entre los países de América Latina con la peor calidad de aire, con niveles de concentración de contaminantes siete veces mayores que lo recomendado por la OMS (La República,2022).
 
 
-
-
 ![57f955c8-5b04-4931-84ef-688845dce6c0](https://github.com/BrunoXIII-Gav/FDD_1/assets/152926100/0af3447d-a086-4266-b0bf-e8d8f62c3bc0)
 
-                                      
-                                      FIGURA 3
+Figura 9
 
 La Figura 3 muestra el Reporte Mundial de Calidad de Aire 2021 para Latinoamérica, específicamente la concentración promedio de PM2.5 (partículas finas) en diferentes países de la región. Esto refleja las disparidades en la calidad del aire entre los países de Latinoamérica, siendo Perú el que enfrenta los mayores retos en cuanto a la contaminación atmosférica.
 
@@ -120,13 +119,19 @@ Un estudio del Ministerio del Ambiente en 2012 estimó que los costos económico
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Diagrama_ishikawa_thelast.png)
 
+Figura 10
+
 # MAPA DE EMPATÍA
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/MAPA%20DE%20EMPATÍA1.png)
 
+Figura 11
+
 # CUSTOMER JOURNEY MAP
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Journey%20map.png)
+
+Figura 12
 
 # Problemática
 
@@ -137,11 +142,11 @@ La preocupante falta de información y datos desactualizados sobre la contaminac
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Cuenca_rio_rimac.png)
 
-Cuenca del del Rio Rímac, foto de la página oficial del Ministerio de Energía y Minas
+Figura 13: Cuenca del del Rio Rímac, foto de la página oficial del Ministerio de Energía y Minas
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable2/Camino_Carretera_Central.png)
 
-Trazo de la Carretera Central en la página oficial de Ministerios de Transporte y Telecomunicaciones
+Figura 14: Trazo de la Carretera Central en la página oficial de Ministerios de Transporte y Telecomunicaciones
 
 
 # REFERENCIAS BIBLIOGRAFICAS
