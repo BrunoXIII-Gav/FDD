@@ -175,7 +175,7 @@ El sistema de monitoreo de contaminación del aire utilizando Internet de Vehíc
 
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/REQUIRI.%20FUNCIONALES.png)
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/FUNCI.png)
 
 
 ## 4.LISTA DE REQUERIMIENTOS NO FUNCIONALES
