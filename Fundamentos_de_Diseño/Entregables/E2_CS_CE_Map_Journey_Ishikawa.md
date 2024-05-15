@@ -170,17 +170,18 @@ Figura 14: Trazo de la Carretera Central en la página oficial de Ministerios de
 
 10. Cooperaccion. (2021, 21 junio). Huarochirí: Policía reprimió protesta de comunidad contra contaminación de minera. Observatorio de Conflictos Mineros En el Perú.
 
-11. Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. (2021). Crecimiento económico y calidad ambiental en América Latina y el Caribe. Economía, Sociedad y Territorio,
-https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-33802021000200017
+11. Hernández Mota, J. L., Delgado Carranza, M. del C., & Hernández Mota, J. L. (2021). Crecimiento económico y calidad ambiental en América Latina y el Caribe. Economía, Sociedad y Territorio.
 
-12. Nosotros. Alpayana.com. de https://alpayana.com/nosotros/
+12. Nosotros. Alpayana.com.
 
-13. Nosotros. (2018, febrero 16). Volcan. https://www.volcan.com.pe/nosotros/
+13. Acerca de Volcan (2018, febrero 16). Volcan.pe.
 
-14. Servicios Corporativos. FCCA. de https://www.ferrocarrilcentral.com.pe/servicios-corporativos/
-15. World Health Organization: WHO. (2019b, julio 30). Contaminación atmosférica. https://www.who.int/es/health-topics/air-pollution#tab=tab_1
-16. American, S. (2023). Quiet! Our Loud World Is Making Us Sick. Scientific American. https://www.scientificamerican.com/article/everyday-noises-can-hurt-hearts-not-just-ears-and-the-ability-to-learn/?utm_campaign=socialflow&utm_source=twitter&utm_medium=social
-    
+14. Servicios Corporativos. FCCA.
+
+15. World Health Organization: WHO. (2019, julio 30). Contaminación atmosférica.
+
+16. American, S. (2023). Quiet! Our Loud World Is Making Us Sick. Scientific American.
+
 17. Naciones Unidas. (2022, 15 de febrero). Las Naciones Unidas piden a las partes en conflicto que respeten la ley humanitaria mientras se intensifican los combates en Ucrania. Noticias ONU. https://news.un.org/es/story/2022/02/1504212
 18. Gamero Motta, H. G. (2020). Comparación de los niveles de ruido, normativa y gestión de ruido ambiental en Lima y Callao respecto a otras ciudades de Latinoamérica. Revista Kawsaypacha: Sociedad y Medio Ambiente, (5), 107-142. https://doi.org/10.18800/kawsaypacha.202001.004
 19. ONU Medio Ambiente. (2022). Fronteras 2022: ruido, llamas y desequilibrios. Recuperado de https://www.unep.org/es/resources/fronteras-2022-ruido-llamas-y-desequilibrios
