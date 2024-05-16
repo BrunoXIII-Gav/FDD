@@ -190,7 +190,7 @@ La patente describe un dispositivo y método para monitorear los niveles de gase
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/PATENTE3.png)
 
-**Figura 15: Mapa del funcionamiento de la tercera patente** 
+**Figura 15: Mapa del funcionamiento de la cuarta patente** 
 
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
 
