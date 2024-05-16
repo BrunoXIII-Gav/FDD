@@ -188,6 +188,8 @@ Dispositivo y método para el monitoreo de niveles de gases y contaminación son
 
 La patente describe un dispositivo y método para monitorear los niveles de gases y la contaminación sonora en el ambiente. El dispositivo incluye un procesador digital de señales que recibe las señales de los niveles de presión sonora mediante un micrófono y procesa las señales acondicionadas por un amplificador y un conversor de protocolos. Además, recibe datos de un módulo GPS y un reloj de tiempo real a través de una interfaz UART. Un segundo conversor de protocolos permite la comunicación remota. El sistema registra automáticamente los niveles de sonido y gases, procesa y almacena estos datos en una memoria extraíble, y puede comunicarse con una central de monitoreo.
 
+![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/PATENTE3.png)
+
 **Figura 15: Mapa del funcionamiento de la tercera patente** 
 
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
