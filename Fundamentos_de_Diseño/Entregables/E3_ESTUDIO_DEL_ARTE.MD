@@ -172,7 +172,7 @@ Sistema de vigilancia de la contaminación atmosférica mediante el internet de 
 
 El sistema de monitoreo de contaminación del aire utilizando Internet de Vehículos y sensores de contaminación es un prototipo diseñado para mejorar la calidad del aire en entornos urbanos. Este sistema consta de módulos de sensores, comunicación inalámbrica con la nube y un módulo de procesamiento con base de datos. Su objetivo principal es monitorear los contaminantes del aire y generar alertas avanzadas al predecir los niveles de contaminación en la ciudad. Utiliza sensores de gases para detectar las emisiones de los vehículos que afectan las áreas urbanas. El sistema ha demostrado una precisión del 99.23% en la generación de alertas, superando el rendimiento de sistemas existentes. La arquitectura del sistema incluye una capa de percepción con sensores de gas en vehículos, una capa de red para garantizar la conectividad y una capa de aplicación para analizar, almacenar y procesar datos, tomando decisiones sobre situaciones de riesgo. La implementación exitosa de este prototipo demuestra su eficacia en la monitorización y alerta temprana de la contaminación del aire en entornos urbanos, lo que contribuye a mejorar la calidad de vida de los habitantes y proteger el medio ambiente.
 
-![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/PATENTE3.png)
+![image]()
 
 **Figura 14: Mapa del funcionamiento de la tercera patente** 
 
