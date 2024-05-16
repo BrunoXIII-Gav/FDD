@@ -176,16 +176,30 @@ El sistema de monitoreo de contaminación del aire utilizando Internet de Vehíc
 
 **Figura 14: Mapa del funcionamiento de la tercera patente** 
 
+## - **Patente N°4:** 
+
+Dispositivo y método para el monitoreo de niveles de gases y contaminación sonora en el ambiente.
+
+**Número de publicación:** 102339
+
+**Fecha de publicación:** 22.02.2017
+
+**CIP:** G01N 1/22 H04R 29/00
+
+La patente describe un dispositivo y método para monitorear los niveles de gases y la contaminación sonora en el ambiente. El dispositivo incluye un procesador digital de señales que recibe las señales de los niveles de presión sonora mediante un micrófono y procesa las señales acondicionadas por un amplificador y un conversor de protocolos. Además, recibe datos de un módulo GPS y un reloj de tiempo real a través de una interfaz UART. Un segundo conversor de protocolos permite la comunicación remota. El sistema registra automáticamente los niveles de sonido y gases, procesa y almacena estos datos en una memoria extraíble, y puede comunicarse con una central de monitoreo.
+
+**Figura 15: Mapa del funcionamiento de la tercera patente** 
+
 ## 3.LISTA DE REQUERIMIENTOS FUNCIONALES 
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/FUNCIONALES%20ULT.png)
 
-**Figura 15** 
+**Figura 16** 
 
 ## 4.LISTA DE REQUERIMIENTOS NO FUNCIONALES
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable4/REQUIRIEMIENTOS%20NO%20FUNCIONALES.png)
 
-**Figura 16** 
+**Figura 17** 
 
 ## 5.DEFINICIÓN DE SOLUCIÓN A IMPLEMENTAR
 
