@@ -10,8 +10,8 @@ FIGURA 1: Modelo 3D/ SketchFab
 
 FIGURA 2 y 3: Vista explosiva de los elementos y características
 # PLANO DEL MODELO GENERAL
-
-
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/5.png)
+FIGURA 4: Modelos y medidas generales
 
 # MODELADO 3D
 
