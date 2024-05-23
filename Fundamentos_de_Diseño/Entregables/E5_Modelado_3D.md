@@ -8,3 +8,7 @@ Enlace Sketchfab: https://sketchfab.com/3d-models/assembly-3-f4193e2616b745668ff
 # PLANO DEL MODELO GENERAL
 # MODELADO 3D
 
+
+
+## Link de diapositivas: 
+https://www.canva.com/design/DAGGAgnLu54/pn7cQKvVHLmXJ20HQL3y-Q/edit
