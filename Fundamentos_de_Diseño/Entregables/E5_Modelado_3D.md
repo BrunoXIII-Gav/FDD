@@ -23,6 +23,8 @@ FIGURA 4: Modelos y medidas generales
 
 ![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/Drawing%204.jpeg)
 
+FIGURA 5 - 8: Medidas especificas del modelado 3D
+
 ## Enlace Sketchfab:
 
 https://sketchfab.com/3d-models/assembly-3-f4193e2616b745668ff1a7c923aa3997
