@@ -13,8 +13,15 @@ FIGURA 2 y 3: Vista explosiva de los elementos y características
 ![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/5.png)
 FIGURA 4: Modelos y medidas generales
 
-# MODELADO 3D
+# PANOS DEL MODELADO 3D
 
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/Drawing%201.jpeg)
+
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/Drawing%202.jpeg)
+
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/Drawing%203.jpeg)
+
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/imagenes_entregable5/Drawing%204.jpeg)
 
 ## Enlace Sketchfab:
 
