@@ -22,8 +22,8 @@ int sensorValue = 0;
 float voltage = 0.0;
 float ppm = 0.0;
 
-float voltajeAireLimpio = 0.4; // Voltaje en aire limpio
-float voltaje200ppm = 1.2; // Voltaje a 200 ppm
+float voltajeAireLimpio = 0.4; // Voltaje en aire limpio (suposicion)
+float voltaje200ppm = 1.2; // Voltaje a 200 ppm (suposicion)
 
 const char* ssid = "VILLA";
 const char* password = "08687286";
