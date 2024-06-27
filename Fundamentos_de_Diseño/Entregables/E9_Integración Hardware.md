@@ -1,2 +1,2 @@
-# Integración Hardware - Software - Manufactura Digital
+# Integración Hardware, Software y Manufactura Digital
 
