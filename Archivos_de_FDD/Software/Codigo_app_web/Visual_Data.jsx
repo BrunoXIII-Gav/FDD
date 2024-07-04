@@ -20,7 +20,7 @@ const customIcon = new L.Icon({
     shadowSize: [41, 41] // Tamaño de la sombra
 });
 
-const socket = io('http://192.168.18.10:8080');
+const socket = io('http://direccion_ip:8080');
 
 
 const VisualData = () => {
@@ -93,7 +93,7 @@ const VisualData = () => {
 
     const handleDownload = async () => {
         try {
-            const response = await fetch('http://192.168.18.10:8081/descargarExcel');
+            const response = await fetch('http://direccion_ip:8081/descargarExcel');
             if (!response.ok) {
                 throw new Error('Error al descargar el archivo');
             }
