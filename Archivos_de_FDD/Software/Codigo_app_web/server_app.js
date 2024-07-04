@@ -42,10 +42,10 @@ const pool = mysql.createPool({
 
 // Endpoint para recibir datos
 app.post('/datos', async (req, res) => {
-    const { pm10, pm2_5, co, decibeles, distancia} = req.body;
+    const { pm10, pm2_5, co, decibeles} = req.body;
     try {
-        const results = await pool.query('INSERT INTO new_datos_sensores_web (pm10, pm2_5, co, decibeles, distancia) VALUES (?, ?, ?, ?)', [pm10 || null, pm2_5 || null, co || null, decibeles || null]);
-        const nuevoDato = { id: results[0].insertId, pm10, pm2_5, co, decibeles, distancia};
+        const results = await pool.query('INSERT INTO new_datos_sensores_web (pm10, pm2_5, co, decibeles) VALUES (?, ?, ?, ?)', [pm10 || null, pm2_5 || null, co || null, decibeles || null]);
+        const nuevoDato = { id: results[0].insertId, pm10, pm2_5, co, decibeles};
         io.emit('nuevosDatos', nuevoDato); // Emite a todos los clientes conectados
         res.send(nuevoDato);
     } catch (error) {

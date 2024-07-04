@@ -34,7 +34,6 @@ app.get('/descargarExcel', async (req, res) => {
         { header: 'PM2.5', key: 'pm2_5', width: 10 },
         { header: 'CO', key: 'co', width: 10 },
         { header: 'Decibeles', key: 'decibeles', width: 10 },
-        { header: 'Distancia', key: 'distancia', width: 10 },
         { header: 'Timestamp', key: 'timestamp', width: 20 }
     ];
 
