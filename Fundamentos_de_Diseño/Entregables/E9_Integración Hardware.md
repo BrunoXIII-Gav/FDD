@@ -7,7 +7,7 @@
 Foto 1: 
 ## Verificación de Diseño (Hardware)
 
-![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable9/ENTregable%20N%C2%B09%20(1).png)
+![](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable9_ofi/verificacion_dise%C3%B1o_oficial.png)
 
 Foto 2: 
 ## Link de diapositivas: 
