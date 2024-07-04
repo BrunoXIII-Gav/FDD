@@ -196,12 +196,12 @@ La patente describe un dispositivo y método para monitorear los niveles de gase
 
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable3/FUNCIONALES%20ULT.png)
 
-**Figura 16** 
+**Figura 16 - Elaboracion propia** 
 
 ## 4.LISTA DE REQUERIMIENTOS NO FUNCIONALES
 ![image](https://github.com/BrunoXIII-Gav/FDD_1/blob/main/Archivos_de_FDD/Imagenes/Imagenes_entregable4/REQUIRIEMIENTOS%20NO%20FUNCIONALES.png)
 
-**Figura 17** 
+**Figura 17 - Elaboracion propia* 
 
 ## 5.DEFINICIÓN DE SOLUCIÓN A IMPLEMENTAR
 
